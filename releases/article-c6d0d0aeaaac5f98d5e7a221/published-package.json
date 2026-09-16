@@ -1,0 +1,156 @@
+{
+  "article_id": "c6d0d0aeaaac5f98d5e7a22161e7f959ef8cf737b49bcfd0b59dcba8ad129dbc",
+  "guid": "urn:article-reader:c6d0d0aeaaac5f98d5e7a22161e7f959ef8cf737b49bcfd0b59dcba8ad129dbc",
+  "release_name": "article-c6d0d0aeaaac5f98d5e7a221",
+  "article_title": "When Will Robots Go Mainstream?",
+  "publication": "Colossus",
+  "title": "When Will Robots Go Mainstream? (Colossus)",
+  "author": "Terran Mott",
+  "source_url": "https://colossus.com/article/when-will-robots-go-mainstream/",
+  "duration_seconds": 4699.555,
+  "file_size": 75194398,
+  "media_sha256": "cccd23e1f567b7e19aba760c23c38f18a60c717cb0c019491b5908a7a80acd9e",
+  "transcript_sha256": "fae0c2edefcdca844a09daa83c61a12cbd82feb9d2158c31745c1fc2db93e3f4",
+  "extraction_report_sha256": "05fd3bd520f899d076fc52019a71aa7071269c99498651b26cd9fb69fee368dc",
+  "audio_manifest_sha256": "83c38434ef03510e8be99c829fed7df99715501b7ecbd77dbdad656b33936ea7",
+  "audio_run_sha256": "6ca6c2cf0e5585c1676d8e4aa7085616e5d1504fe8d741e7186ae0fb71e832d5",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 19,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "88b38d2fa994af3075e1bebd6ac7c3dfb3e7827b79ca179178be55a3aa80c53d",
+      "audio_sha256": "e2b4022ccf75faf5911353a493d588524061d3b505355c15633d55c778edf4be",
+      "pcm_frames": 6273360
+    },
+    {
+      "index": 2,
+      "text_sha256": "63cf1cfece5136c4adf02057597ebcc502814ba53b6f0cb870e5162feb97255e",
+      "audio_sha256": "3d40052a237b1bad06c10b5bc347c9398bf76d8bcffdf8ba84301b2dccaf62aa",
+      "pcm_frames": 6002280
+    },
+    {
+      "index": 3,
+      "text_sha256": "603d911a9357f757af03f7140fa1be8b025d372ea9eb15c8c58abb30b2078759",
+      "audio_sha256": "bd9e3d49598ce78bfea7e7ac61ea1051690a7106b3686efadf23039030ece08b",
+      "pcm_frames": 6214680
+    },
+    {
+      "index": 4,
+      "text_sha256": "4d6366b93c1783efdf16a4d8a0593022f6e4203b9c12613a97c1fe5887f90c11",
+      "audio_sha256": "c7963e992792dc7a0d8570ce928b2661bef8497085f0df809895f9cd333c6c58",
+      "pcm_frames": 5858280
+    },
+    {
+      "index": 5,
+      "text_sha256": "1eccd78a10663e6b4b0d8c29e06e1373952c98e9c6718bea8bd0b50949fc69f1",
+      "audio_sha256": "24a139d25d192bb061aa9996483f018dd20f6ae532224863d29a9b65c5d9429d",
+      "pcm_frames": 5451240
+    },
+    {
+      "index": 6,
+      "text_sha256": "ad313bbb5059ff7fcb2d086b9024dbd222ce4ffaa09d96258ab394d38695206f",
+      "audio_sha256": "7ebeedb2d44fcea30fc8164f3f0ceb4f50eb1d93c7c26124d70b1a504f169bd4",
+      "pcm_frames": 5874000
+    },
+    {
+      "index": 7,
+      "text_sha256": "28302bd620a9275e4d0aabfd03d286e4e9b381a92ac57bf4908770613e077e39",
+      "audio_sha256": "a27ea6d0082d6d76695eda8e8c5fea39562ccc6a0963ea9e3a93323f62a7325a",
+      "pcm_frames": 6148560
+    },
+    {
+      "index": 8,
+      "text_sha256": "af4004f36ca0f6847ca1f9d77336f5f5b44a6778677424616c84818422b238ae",
+      "audio_sha256": "d2f45b660f5698a4b866f5af62e4e5e8732569a81fbb882282358ebdad68df0d",
+      "pcm_frames": 6171480
+    },
+    {
+      "index": 9,
+      "text_sha256": "63ae1cfe95651d599be77018419a227a59a29beb68c919a2953e6884ce237988",
+      "audio_sha256": "9ce33a5f3b45a4a5057cafcd8f086b768d6ccb3bf44410cb8b3f8381094c5aac",
+      "pcm_frames": 6129720
+    },
+    {
+      "index": 10,
+      "text_sha256": "8e1ddeecb972da52facaa95e5230777e4206fd0521bc0ffe6a3b60867237c761",
+      "audio_sha256": "9096d5b5bd50ad533356ded5f5de47b27b58326b2a63d525e5105f38368156de",
+      "pcm_frames": 6100680
+    },
+    {
+      "index": 11,
+      "text_sha256": "956e2a2cf7af1057911bc70c30be98dd5da62698ca84f68c7c889c58f124939a",
+      "audio_sha256": "6e44495cea511fdf33838adf9a1d2cd56b45dcdd4e18e6234992b941c9b9130a",
+      "pcm_frames": 6571560
+    },
+    {
+      "index": 12,
+      "text_sha256": "ea48100a1460df0f5eaeeef0f5468d415b55e1fe33aca84632ee92c4b5910c22",
+      "audio_sha256": "f086c2f8cc735ef33f4d9605aa4bfaccec9e3bfab6e0951d7715fa7ac5aa995d",
+      "pcm_frames": 6228240
+    },
+    {
+      "index": 13,
+      "text_sha256": "a407096a10596e41d3b3ed0d8c5d3de55d34cef9d671e9aca4fba5efb50e7f03",
+      "audio_sha256": "018971dcd7ea6298bb5d8b47b570a900dc8e0ff6e2298112f870e06d92d0750b",
+      "pcm_frames": 6541080
+    },
+    {
+      "index": 14,
+      "text_sha256": "d20011313e093db99672d2b6f94a57385cb40dd59aff347f23b42a68e1e8c0fb",
+      "audio_sha256": "84c8d2a9979c2174e497d0df20731ba8ada70132bb4c4dac3cb1e6cb07f1a96e",
+      "pcm_frames": 6426720
+    },
+    {
+      "index": 15,
+      "text_sha256": "bd85ee589979d236a1ac24e8267245e791eb5f1319e02d43c455f6a9716009ff",
+      "audio_sha256": "ad904969143340a26b3622fc16b020d0377945ef50b089dcafbcd289987e2622",
+      "pcm_frames": 5879880
+    },
+    {
+      "index": 16,
+      "text_sha256": "b3b5cdf00c8c2d2933017ba7614ed6a0ff66be40385f6897a00ec8f6e71229e3",
+      "audio_sha256": "bb39f850e4db74497b2695bfee46e44989e0cb85e79fc705977ce6bb3b2f5eb6",
+      "pcm_frames": 5725440
+    },
+    {
+      "index": 17,
+      "text_sha256": "20887fdf29d094a939a2af83d3ad679c63604a0ab6cf01699b37d9b13e69362f",
+      "audio_sha256": "1ec101aee469a5673fd7f9ff0275d719fea9cd831d515734235648db6624a889",
+      "pcm_frames": 5920680
+    },
+    {
+      "index": 18,
+      "text_sha256": "fab6c74c5a7ecd1181185c79cadc75a6355a89bd02a47d6259a3d54fc1508697",
+      "audio_sha256": "311d9fc49b3058a5178c1ba672e2ecf8dd27203b6b20bd1314e35ed4dc6b2dee",
+      "pcm_frames": 6482040
+    },
+    {
+      "index": 19,
+      "text_sha256": "e21f310e5b7416f627ed94a0d7951dafc3d43cd0f501363672e83d9ad60f7c31",
+      "audio_sha256": "036af16b388e3b57adb5c9abb7c73c28d812150f059f85ce32b705d481020f2d",
+      "pcm_frames": 2789400
+    }
+  ],
+  "pcm_sha256": "c3c2c26682e04bcff58db55cc1858add85949d74af6646f76d59c686ea1f23ec",
+  "pcm_frames": 112789320,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-c6d0d0aeaaac5f98d5e7a221/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-c6d0d0aeaaac5f98d5e7a221/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-c6d0d0aeaaac5f98d5e7a221/rss-item.xml",
+  "released_at": "2026-09-16T16:10:58.072799+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

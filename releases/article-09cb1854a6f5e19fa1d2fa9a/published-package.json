@@ -1,0 +1,102 @@
+{
+  "article_id": "09cb1854a6f5e19fa1d2fa9aecd5efff66f4395e3d14ce62f094b81d6d092508",
+  "guid": "urn:article-reader:09cb1854a6f5e19fa1d2fa9aecd5efff66f4395e3d14ce62f094b81d6d092508",
+  "release_name": "article-09cb1854a6f5e19fa1d2fa9a",
+  "article_title": "Graham Duncan: Talent Whisperer",
+  "publication": "Colossus",
+  "title": "Graham Duncan: Talent Whisperer (Colossus)",
+  "author": "Gabi",
+  "source_url": "https://colossus.com/article/graham-duncan-talent-whisperer/",
+  "duration_seconds": 2234.48,
+  "file_size": 35753366,
+  "media_sha256": "b8f97bcd9aa9ee4cbe3270bbe58276af26c62b77aa89ff1eb9ed71d9674db20a",
+  "transcript_sha256": "79d8a9d0ddda850af5c7db15d712eba15f272329ffddc3a6d8e3c13ca9aeff8d",
+  "extraction_report_sha256": "f00eeafa09f2a4a70f31fe1395199b3d6aaeb6ec8ad977e6a84398ddd70e86af",
+  "audio_manifest_sha256": "10b31926525e02c2b48f9ac9201b06915b325068a8beb054e7a911556a06a284",
+  "audio_run_sha256": "8cd5d034fb7faa0fcd38005fd2fbf24557eb1db4bcbd86e3a2e53dcdc9fc2aa2",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 10,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "d729bed514f503ade6900511ed6dedcf58ecda38c6a37bd0eafb51a115bcab76",
+      "audio_sha256": "f8a6d4d71d7dde7a61345d4406695c1844b7948f59bd74b908a84db205cded63",
+      "pcm_frames": 5162160
+    },
+    {
+      "index": 2,
+      "text_sha256": "240b1351dc10cd64e41cc49db2715b753a9fa2f9e5b8352e8ee6b8be08eb3351",
+      "audio_sha256": "9578d2ff487bcca876444cc5bae519670b4572351bcd1cae74d2f0aeb70cf7d7",
+      "pcm_frames": 5913480
+    },
+    {
+      "index": 3,
+      "text_sha256": "af9e675ed6fe47219993b5a0e0e009df3b64fa6e7af091c78168a760bf7a4f22",
+      "audio_sha256": "306e3fe598db927cbbb66ef229e5b2be507b243e0824be98e28b8e05ba0887d5",
+      "pcm_frames": 5755200
+    },
+    {
+      "index": 4,
+      "text_sha256": "71d15401e27414a0862965725ab00f040febf52cc99581d7360071e5f1a33a6f",
+      "audio_sha256": "aaa4a29c5eea288b2a47d284f809a29bcdb7e598ce857b0a6d1a5c98177db073",
+      "pcm_frames": 5763120
+    },
+    {
+      "index": 5,
+      "text_sha256": "8e91d202568dc1a5a2502067589854c838f6ff21c27b4ee300dce3fc614fbb69",
+      "audio_sha256": "ccab6c1d896422990ddc2f363510085ff3ccb7d5c979e2541c885c6c83c4fa0b",
+      "pcm_frames": 5792400
+    },
+    {
+      "index": 6,
+      "text_sha256": "3303a1fe21f5aff62442a5aa248979c327bfdcdf3517112509bed4fa0633a349",
+      "audio_sha256": "76f9f43ef35e517d43eee4849be86be49e5f6cf6d579ccd941d2bb14ba98aade",
+      "pcm_frames": 5599080
+    },
+    {
+      "index": 7,
+      "text_sha256": "60ea29f234a9a6d5e85f1a435c775861985e0d75c8e9d56b21f165147f1e1181",
+      "audio_sha256": "44a6764ae8e9f8b5c6e2d179a33af19529aab25083c239465688bdb24828daea",
+      "pcm_frames": 5568840
+    },
+    {
+      "index": 8,
+      "text_sha256": "a5e8b71ed208a76f1f1b710722bd59f4362646509b01345ca2804666b7ad38e3",
+      "audio_sha256": "939fa422bd7ce929e4b694fc6fb76ec5db7c6f6b36cb44c7d9010e45166c9b0e",
+      "pcm_frames": 5580480
+    },
+    {
+      "index": 9,
+      "text_sha256": "696144075737e058a84a1c6d12ee789e089a15ef48ec16ed86ef3049c60cf3d3",
+      "audio_sha256": "812e287f7e92a15bb9afb9a2df4fcb9b31be1217d8401d6b4f48579b6fd78d7f",
+      "pcm_frames": 5544000
+    },
+    {
+      "index": 10,
+      "text_sha256": "749204ac581fb859df0d3d988c45c1646f6a271257c63a74e67926d670f93d1a",
+      "audio_sha256": "8b34a7dfa1d7b8047253eb1dd55bc711d9006155e900cb4089198c2b6383afc9",
+      "pcm_frames": 2948760
+    }
+  ],
+  "pcm_sha256": "8db659ebcad584b97e8aba8302d24c0a7d6a3ddbd2b2774460fe773743b43edb",
+  "pcm_frames": 53627520,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-09cb1854a6f5e19fa1d2fa9a/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-09cb1854a6f5e19fa1d2fa9a/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-09cb1854a6f5e19fa1d2fa9a/rss-item.xml",
+  "released_at": "2026-09-15T16:05:04.398870+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

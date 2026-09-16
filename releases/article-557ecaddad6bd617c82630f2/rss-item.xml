@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <title>Flounder Mode (Colossus)</title>
+  <description>An audio reading of Flounder Mode from Colossus.</description>
+  <link>https://colossus.com/article/flounder-mode/</link>
+  <pubDate>Wed, 16 Sep 2026 16:18:49 GMT</pubDate>
+  <guid isPermaLink="false">urn:article-reader:557ecaddad6bd617c82630f2a8fbf259da3019ade5de81c762b8fdc524946bdb</guid>
+  <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-557ecaddad6bd617c82630f2/article.mp3" length="19791243" type="audio/mpeg" />
+  <itunes:author>Brie Wolfson</itunes:author>
+  <itunes:duration>00:20:37</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>

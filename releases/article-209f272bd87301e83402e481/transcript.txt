@@ -1,0 +1,323 @@
+The Making of a Market Maker
+
+How Thomas Peterffy built the machines that killed the trading floor and made Interactive Brokers into a $100 billion business
+
+By Dom Cooke.
+
+The front door is a sheet of glass bordered in thick gold. Standing at 8,000 feet outside the $108 million Aspen house that Thomas Peterffy bought with his seasonal roommate, the casino mogul Steve Wynn, you can see the ski slopes across the valley, everything sharp in the thin mountain air. It’s the most expensive residence in Colorado; Peterffy uses it from July to September.
+
+I arrived just before nine on a bright, already warm summer morning and pressed the doorbell twice before footsteps approached.
+
+“No one ever rings the doorbell,” said the man who led me inside across a cream carpet thick enough to muffle a Gulfstream, past people idling in various rooms, up a dark timber staircase that bent around an elevator shaft, and along a corridor where, a few doors down, I found Peterffy hunched over his Herman Miller chair, adjusting its height. His piercing light-blue eyes looked up in confusion as I was introduced.
+
+“I thought we were doing this over Zoom?” he said.
+
+My stomach dropped, though at least he knew we were meeting.
+
+“Where have you come from?” he asked.
+
+“London.”
+
+“That’s crazy!” he said, as if I’d come by boat.
+
+To a man who has spent the past 60 years automating as much of his business as feasible—to the point where Interactive Brokers has higher profit margins (71%) than Visa, a so-called perfect business—my journey to meet him was an absurd misallocation of resources.
+
+Peterffy is the 23rd richest person in the world. He pioneered automated trading before the millennium and built Timber Hill, once the largest options market maker on earth. He’s the reason you can trade stocks in your pajamas. His second act, Interactive Brokers, is worth over $100 billion. I was surprised he was surprised that anyone would travel to hear his story.
+
+As he motioned for me to sit in the white armchair beside his desk, he asked if he could rest his leg on a Home Depot box. He’d been hit by a car while mountain biking a few days earlier and his knee had become infected. Then he lifted his Kiziks onto the makeshift footrest, settled back in his chair, and began to explain how he got his start in life by dragging a metal bathtub through the rubble of postwar Budapest.
+
+“I was born during a Soviet bombing raid,” Peterffy began, matter-of-factly. It was September 30, 1944. The Red Army was pushing into Hungary, and as explosions rattled the capital, Peterffy entered the world prematurely, drawing his first breath in the acrid smog of a hospital basement.
+
+He remembers nothing until he was five, by which time Hungary belonged to the communists and his father had vanished, having divorced his mother and fled the country when Peterffy was two, leaving behind a story that still doesn’t make sense.
+
+“Somebody told me that the Russian occupying forces wanted him to become Minister of Finance,” Peterffy said. “He concluded that they would hang him, sooner or later, whether he accepted the job or not—so he left. But he would have only been 30 or 31, so it sounds unlikely to me.”
+
+Under the communist system, families were classified by their pre-war status. The Peterffys had lost their land in World War I and their remaining assets to the communist state after World War II, but they had been wealthy, which now made them enemies of the working class. His mother cycled through jobs, hired and fired in an endless loop of ideological suspicion. Unemployment was illegal so she would report to government offices, where they assigned her work before dismissing her months later.
+
+“I often remember my mother crying. I’d ask, ‘Mom, why are you crying?’ She’d reply, ‘We’re going to starve to death.’ And she was dead serious about that.”
+
+At school, Peterffy had no hope. Born early, he was the runt among his classmates, and his family’s prewar social rank meant teachers had no interest in helping him. But his grandmother’s library had survived the war, and through 19th-century French classics—Honoré de Balzac, Émile Zola, and Victor Hugo—he learned about capitalism.
+
+“I always wanted to make some money because we didn’t have any,” he said. At 12, Peterffy went into business with a classmate who had returned from Austria with packets of Juicy Fruit gum, likely slipped to him by an American GI. Peterffy took out a knife, cut each yellow stick into five pieces, and worked the schoolyard until they were sold. The principal, upon hearing about his venture, confronted him: “Where is your communist conscience?”
+
+A year later, he was organizing platoons of children to hunt for metal in bombed-out buildings. Seventy percent of Budapest had been hit during the war, and Hungary, having lost its mines to Romania and Slovakia after World War I, desperately needed steel. Signs throughout the capital offered to buy scrap by the pound.
+
+“Once, we found a humungous metal bathtub, which was incredibly heavy,” Peterffy said, eyes narrowing with amusement. “It took eight of us all afternoon to drag it to the weigh station, but we got a lot of money for it.”
+
+When Peterffy finished school, university was not an option for enemies of the working class. He enrolled in technical school for surveying, studying advanced geometry. It was a profession his aunt had taught him at 12, and by his teens he was surveying construction sites himself.
+
+At 21, through what he called “a series of very, very lucky mistakes,” he managed to secure a short-term visa to West Germany on the premise of visiting distant relatives. From there, he walked into the American consulate and applied to immigrate. When the papers came through, he bought a one-way ticket to New York.
+
+Each month throughout his childhood, a letter had arrived from America. His father wrote small updates about everyday life, nothing personal. Peterffy paid little attention to the words. What interested him was the envelope, and in particular the green stamp showing the Statue of Liberty.
+
+“America had those stamps for something like 30 years,” he said. “That was extremely effective advertising.”
+
+On December 12, 1965, Peterffy landed in a city sparkling under Christmas lights, but as he walked down Park Avenue, he immediately felt cold. Budapest had been cold too, but Manhattan was different. The wind tunnelled between buildings and the locals carried that same chill.
+
+“It was not friendly,” he said. “It still isn’t.”
+
+He also remembers a building in the middle of the street. It was the New York General Building, with its limestone and pink granite base straddling the Avenue as cars moved under its arches.
+
+Years later, he learned why it was there. The New York Central Railroad had dug beneath the avenue to lay the railway, then used the space above to build its headquarters. The building stood like a gateway to Grand Central—a gesture of power from the company that had carved the city around its trains.
+
+For a young man who had grown up in a world defined by limits, the building was proof that in America someone could take an established system and simply build over it.
+
+Peterffy soon found work at a highway engineering firm in Queens, earning $65 a week drawing road maps.
+
+He spent his days converting surveyors’ field notes into highway drawings, plotting elevation changes, sight lines, and banking angles for new roads that would carry traffic through the industrial port city of Perth Amboy, New Jersey. Routine calculations could take up to 20 minutes with logarithm tables and slide rules.
+
+In the corner of the office sat a $3,000 solution nobody wanted to touch. The Olivetti Programma 101 weighed 20 pounds and looked like an oversized cash register. It had a numerical keypad, a slot for magnetic cards, and a built-in printer. NASA had bought 10 of them for the Apollo missions. This one collected dust while draftsmen walked past it in search of more familiar tools. When Peterffy volunteered to tackle the unused machine, nobody objected.
+
+“I figured it would be easier to learn than English,” he said.
+
+The P101 was one of the first desktop computers. It performed basic arithmetic and printed results on paper receipts. It could also store simple programs via plastic cards that had a magnetic coating on one side and space to write on the other. The first night Peterffy took the manual home, he was relieved to find it contained maybe 100 English words. The rest was equations and diagrams.
+
+The machine’s logic appealed to him. Break each calculation into steps, record those steps on a card, feed the card into the slot, enter the surveyor’s numbers, and receive an answer. Back in the office, Peterffy began writing his first programs: a Pythagorean card for diagonals, trigonometry programs for coordinates, and curve geometry for banking angles. When a card finally worked, he labeled the function and added it to his growing stack.
+
+Within weeks, he had built a library of programs for the office’s most common calculations. What had taken 20 minutes by hand now ran in 30 seconds. Each morning, draftsmen formed a line at his desk as the machine chattered away next to him, its printer unfurling ribbons of paper with solutions to his colleagues’ problems.
+
+“I was very proud of myself,” Peterffy said, bringing his hands to his mouth as the memory surfaced, his gold signet ring catching the morning light.
+
+“But then I got inducted.”
+
+After 11 months in America, he was called for military service. The induction notice gave him 10 days to report for duty on Whitehall Street at the base of Manhattan. Peterffy gave up his apartment, left his job, stored his few possessions, and prepared to disappear into the jungles of Vietnam.
+
+On the day of his induction, army doctors found an issue with his thyroid and sent him away on a temporary medical exemption. Walking uptown through the November drizzle with $600 in savings, Peterffy stumbled upon New York University and saw his best chance of staying out of Vietnam for good. If he could become a full-time student, he would be eligible for deferment before the army called him back.
+
+The admissions office tested his English and offered him nine credits, three short of the 12 required for deferment. Peterffy bargained for more time. He found two graduate students in Queens who agreed to tutor him in exchange for rent money. Every evening they tested him on 100 new words and corrected a six-page composition he had written. By January, his English had apparently grown worse. The university now offered him six credits. A sympathetic dean, opposed to the Vietnam War, bent the rules and admitted him anyway, but Peterffy’s savings were nearly gone. When his roommates turned 24 and got drafted themselves, he became homeless again, searching classified ads for the cheapest room he could find.
+
+A defrocked monk named Daniel offered him refuge in his unheated Upper East Side apartment for only $18 a month. Daniel made his living as an unofficial notary for Hungarian immigrants, having been thrown out of the church for drinking and chasing women. He now helped clients with unusual business problems, and the most unusual was Lola.
+
+Lola was half-Jewish, half-Gypsy, and spoke no English. Through some impossible chain of immigrant connections, she had landed a job at Lord & Taylor, the department store on Fifth Avenue, reading palms for wealthy customers. Women would smear lipstick on their hands, press them to paper, and write their birthdates in the margins. Lola would commune with the spirits, scribble their fortunes in Hungarian, and bring them to Daniel, who charged three dollars for translation.
+
+But Daniel drank whatever money he earned, usually within an hour of receiving it. So the work fell to Peterffy, his 22-year-old tenant who barely spoke English and struggled even more with Lola’s Hungarian.
+
+“I couldn’t read one word of her handwriting,” Peterffy said. “It was beautiful and curly but impossible. I just made everything up.”
+
+After the 27th fortune, Peterffy ran out of inspiration and began recycling the same handful of fabrications. Then, one afternoon, Lola came back in tears. Lord & Taylor had fired her and Peterffy was sure it was his fault.
+
+“I really apologize,” he told her. “I just copied them. I couldn’t read one word of your writing.”
+
+“I know,” she said. “I never learned to read or write.”
+
+Six decades later, Peterffy would reflect: “This is a very poignant story about how the immigrant community survives. Everybody pulling tricks on each other.”
+
+By 1967, after months trapped in Daniel’s world, Peterffy was flat broke and certain of one thing: this was not the America he had imagined from those green Statue of Liberty stamps. He couldn’t afford another semester at NYU, and when someone mentioned Janos Aranyi, a Hungarian who was making money helping Wall Street firms learn how to use computers, he spotted his escape.
+
+He found Aranyi’s office and asked for work. Before they had finished discussing the job, Peterffy made an unusual request: could he have $50 right now? Aranyi blinked. No one had ever asked for an advance before starting work, but he took pity and reached for his wallet.
+
+The consulting work introduced Peterffy to finance. Most clients wanted the same reports that compared securities across various metrics like price-to-earnings, book value, and earnings growth rates. Peterffy wrote programs in Fortran, fed stacks of punched cards into room-sized IBM mainframes, and waited as the machine hummed and clicked through calculations. The results emerged on green-and-white striped paper, which he tore along the perforations, organized into folders, and delivered to clients each week.
+
+One day, as Peterffy delivered another batch of reports, Aranyi mentioned an unusual client: “I know a crazy psychiatrist who wants to do some computer work. You should meet him.”
+
+The psychiatrist was Dr. Henry Jarecki, a former Yale professor who had left medicine to establish the American operation of Mocatta & Goldsmid, one of the world’s leading bullion trading firms. Peterffy arrived at Jarecki’s office at 6pm, armed with a book called Gold that he’d been using to learn about commodities. Jarecki explained his observation that the price of silver was volatile but stayed within defined boundaries. He wanted a program to model what would happen if they bought every downtick and sold every uptick, profiting from the metal’s nervous energy.
+
+Commodity traders in New York, July 1970, beneath boards tracking prices in silver and other metals.
+
+To answer that question, Peterffy needed data. At COMEX, the commodity exchange, he found a prehistoric setup: reporters seated in a circular pit, dictating prices through radio headsets to clerks on scaffolding who scrawled numbers on walls. At day’s end, the prices were copied to paper.
+
+J. Aron & Company kept the records and agreed to loan their archives. Peterffy and a colleague loaded 30 thick binders into shopping bags, put them in the trunk of their car, and celebrated their haul over dinner.
+
+When they returned, the trunk was open. All the binders were gone.
+
+“My God,” he thought, staring at the empty trunk. “They’re going to fire me.”
+
+They split up. One walked east, the other west, checking doorways, alleys, and trash bins. A few blocks away, Peterffy found the binders scattered across the sidewalk like losing lottery tickets.
+
+By the time Peterffy began analyzing the price data, Jarecki had already moved on. While examining a dollar bill from his wallet, he noticed the words “Silver Certificate.” He called the Treasury to ask what that meant, then walked into their office with a single bill and demanded his ounce of silver. The clerks needed a day to locate the metal, but they honored the exchange.
+
+Silver was trading at $1.33 per ounce. The government was selling it for $1.00.
+
+Jarecki hired teams to collect Silver Certificates still circulating in grocery stores and banks, offering five cents above face value for each bill. But the operation created risk. He was accumulating piles of silver whose value might fall before he could refine and sell it. He needed futures contracts to hedge the position, and he needed someone who understood both programming and markets to manage the complexity.
+
+In 1969, after negotiations with Aranyi, Jarecki hired Peterffy permanently on a salary of $20,000. His first assignment was simple: trade silver and try to make money.
+
+“I had a horrible time,” Peterffy said. “How do you decide when you’re going to buy or sell?”
+
+He had no framework for decisions, no system beyond intuition he says he didn’t possess. But Jarecki had a larger vision. He wanted his nascent business to become a bullion dealer, quoting continuous silver and gold prices to banks and traders in New York, London, and Hong Kong—the exact problems computers solved best.
+
+It’s all common sense. Hard work and common sense. That’s my story.
+
+–Thomas Peterffy
+
+Peterffy designed the system from scratch. Teletype machines hammered out shipping, market, and economic data on continuous paper strips. Clerks tore off the feeds and punched the numbers into IBM computers, where Peterffy’s programs ran the data through proprietary equations and printed fresh bid-ask quotes on green-bar paper. Runners grabbed the sheets and raced them to the trading pit, where clerks gave live prices through hand signals. Other firms relied on their traders’ intuition. Peterffy built a machine that ran on math.
+
+The system’s value became clear on August 15, 1971, when President Nixon dismantled the Bretton Woods system by ending gold convertibility and letting the dollar float. Currency markets collapsed into chaos, and for almost a week, Mocatta was virtually the only firm in the world making markets in silver and gold.
+
+“As soon as the electronic brain is hooked up to its voice box so it can answer the phone,” Peterffy told Barron’s magazine that September, “staff will be able to go on permanent vacation.”
+
+When I read him this quote, he didn’t remember saying it. But the words reveal how clearly he saw the future.
+
+As Mocatta became one of the most powerful commodities firms in the world, Peterffy’s influence grew. By 1976, he commanded a team of 80 programmers—one of the largest financial coding operations in the world—and Jarecki began bringing him into meetings that had nothing to do with software.
+
+Earl Nemser, then outside counsel to Mocatta and now Peterffy’s closest friend and Interactive Brokers’ vice chairman, recalled that Jarecki never entered an important negotiation without him. In rooms full of traders and executives, Jarecki would defer to the quiet Hungarian.
+
+April 26, 1973. Opening day at the Chicago Board Options Exchange (CBOE), where trading began with listed options on just 16 stocks.
+
+But the partnership began to fracture later that year when Peterffy visited the Chicago Board Options Exchange. The market had opened just three years earlier, and it showed. Traders were making prices out of thin air; bid-ask spreads stretched two to three dollars wide—inefficiencies that dwarfed anything in precious metals.
+
+When Peterffy proposed expanding into stock options, Jarecki refused, preferring to remain a precious metals dealer. Jarecki had watched another options firm collapse—fraudsters who promised profits to both buyers and sellers on identical trades. But Peterffy possessed something the swindlers had lacked: In the early 1970s, years before Fischer Black and Myron Scholes published their Nobel Prize-winning paper, he had used his own Olivetti P101 to invent a partial differential equation that priced options based on variables such as the underlying asset’s price, volatility, and the option’s time to expiration. Mocatta had been testing the formula quietly on silver options, making money on almost every trade.
+
+The success made Jarecki’s refusal more frustrating. Over seven years, Peterffy had watched his boss become known as the dean of the American gold market. When I asked what Jarecki had taught him, Peterffy didn’t hesitate.
+
+“He was a very well-educated man, but he was a psychiatrist. He didn’t know anything about markets. I realized: If he can figure it out, so can I.”
+
+In 1977, with $200,000 in savings, Peterffy left Mocatta and bought a seat on the American Stock Exchange for $36,000.
+
+The floor of the American Stock Exchange at 86 Trinity Place, New York City, in the mid-1970s.
+
+His binder measured 11 inches by 13 inches and weighed exactly six pounds and nine ounces when fully loaded with computer printouts. Peterffy had calculated this, naturally. What he had not calculated was how badly it would fit into a space designed for human intuition.
+
+The pit was crowded, and when Peterffy opened his binder he took up the space of two traders. Bodies pressed against him from all sides as he tried to flip through options prices he’d calculated the night before while live orders flew over his head. Every time he consulted his mathematical prophecies, someone’s elbow would knock the folder.
+
+The binder lasted one session.
+
+By day two, Peterffy had folded his computer-generated sheets into precise squares and distributed them among his pockets. IBM went in his breast pocket, DuPont in his left trouser pocket, Burroughs in his back pocket. When prices moved, he would duck his head, fish into the appropriate pocket, consult his numbers, then surface to make his bid.
+
+The other traders watched this performance with fascination and growing unease. He was treating the testosterone-fueled trading floor like a chemistry experiment.
+
+“People thought I was mad,” Peterffy said.
+
+In the fall of 1977, the madness nearly destroyed him. Standing at the DuPont post, he heard a trader selling 300 call options, slightly out of money, two days from expiration. No one responded. Peterffy reached into his left trouser pocket, read his slip, and offered $12.50. According to his math, they were worth $20.
+
+Traders gathered around a specialist post on the floor of the American Stock Exchange, 1976.
+
+Moments later, another trader materialized offering to buy 500 contracts at $37.50. Peterffy, seeing immediate profit, said “Sold.” The contracts were gone—500 of them, including 200 he didn’t own.
+
+Then DuPont halted trading.
+
+News rolled in: earnings beat expectations, three-for-one stock split.
+
+When trading resumed, the options Peterffy had sold for $37.50 were now worth $450. He had just lost $75,000, half his capital, in a matter of minutes.
+
+“When you are short something, the value doesn’t matter, you have to buy it,” Peterffy said, his voice still carrying traces of that morning 48 years ago. “It was obviously insider trading.”
+
+That night, cigarette between his fingers, he performed the calculations that would govern his future. No more speculation, no more luxuries. He never smoked again.
+
+Between 1977 and 1982, Peterffy slowly rebuilt his capital one careful trade at a time. He stuck religiously to his fair-value sheets, and made sure to hedge all his trades. He also began hiring others to execute his mathematical visions, training them to read his slips and profit from the market’s inefficiencies.
+
+By 1982, his operation had grown large enough to deserve a name: Timber Hill. That same year, Peterffy tore several ligaments in his knee through a series of accidents. During rehab, the knee became infected, and he found himself unable to stand on the trading floor for long periods.
+
+Confined to his office in the World Trade Center, Peterffy spent hours watching his Quotron machine—a beige box that pulled up one stock price at a time over a dedicated phone line. He asked Quotron to sell him the data feed and when they refused, he helped himself, cutting the wire and attaching an oscilloscope.
+
+The oscilloscope sat on his desk like a small television with a grid hashed over its face. When he attached the probes to the severed line, green traces swept across the screen, displaying the electrical pulses carrying each stock price. Every number had its own signature in spikes and dips. He studied the patterns, matching each trace to the prices appearing on his Quotron.
+
+Soon his computer was being fed price changes across the entire market in real time. With that stream of data, his algorithms could spot profitable options trades faster than anyone else. But he still needed humans to execute the instructions on the floor, which meant dealing with the specialists who controlled order flow—and in the clubby world of the trading floor, Peterffy was not one of the boys.
+
+His solution was typically calculated: He hired six tall, beautiful women to trade for him.
+
+Specialists who had ignored his bids suddenly fought to fill his new employees’ delta-neutral trades, which Peterffy was delivering by phone. “Everybody loved the women,” he said. “We were making money hand over fist.”
+
+The honeymoon ended when the specialists finally grokked what was going on. They delivered an ultimatum: If Peterffy wanted to keep trading, he would have to become a market maker, maintaining constant bid and offer prices instead of cherry-picking only the most profitable options to trade.
+
+Market making required split-second responses to price movements, but his traders took their orders from algorithms running in his office. How could they make markets without direct access to his mathematical brain?
+
+In 1983, 27 years before Steve Jobs unveiled the iPad, Peterffy invented the first handheld trading computer. Working with an electronics hobbyist, he built rectangular boxes from black Mylar, each about the size of a hardcover encyclopedia. Inside, rows of transistors and circuit boards powered a crude touchscreen made of gold wires that stretched between layers of transparent plastic.
+
+Each morning, Peterffy lined the devices along his desk and plugged them in, one by one, uploading fresh market data and options prices. Then he handed them off. On the floor, when specialists demanded quotes, his traders glanced at their screens, tapped, answered with prices, and tapped again to log the trades.
+
+But the cycle required constant feeding. After five trades, the devices had to be updated. Clerks sprinted the two blocks between the American Stock Exchange floor and Peterffy’s office, carrying the computers in satchels. He uploaded the trades, recalculated exposures, fed in new prices, and sent them racing back.
+
+The evolution of Timber Hill’s handheld trading device: an early model (left) and a later version in use on the trading floor in the mid-1990s.
+
+The American Stock Exchange reluctantly agreed to allow the devices, but not without conditions. Competitors complained about their sharp edges in the jostling pits, forcing Peterffy to redesign them from book-shaped devices into rounded lunchbox forms. When he attempted to bring his tablets to the Chicago Board Options Exchange, the response was unequivocal.
+
+“They actually passed a rule that analytical devices may not be used on the trading floor,” he said. “I mean, how can you say such a thing?”
+
+In 1985, Peterffy turned to the New York Stock Exchange’s struggling options division. They were hungry for volume and open to concessions—but not many. Devices were banned in the pits but he could install monitors, so long as they were mounted along the back wall of the trading floor, 30 feet from the action.
+
+The distance made real-time trading almost impossible. And worse, the expansion was bleeding him dry. Timber Hill was now active in Philadelphia, too. The cost of outfitting multiple exchanges with custom technology was outpacing his profits.
+
+“I was desperate,” Peterffy said.
+
+That weekend, at his house in upstate New York, he sat alone at the kitchen table, staring into a mug of colored pencils. He picked one up, turned it in his fingers, and set it back down. Red, then green, then blue. What if each digit flashed as a color, he wondered.
+
+On Monday morning, he rewrote the code, creating a psychedelic light show that his traders could read from across the room.
+
+“People took maybe a day or two to learn the colors,” he told me.
+
+An image of Timber Hill’s displays used on the New York Stock Exchange floor to communicate fair market values to its traders.
+
+In 1987, Peterffy achieved what he had first dreamed of in 1971: the first fully automated trading system in Wall Street history. His machines could now place trades without human intervention—an achievement made possible not on the floor of a traditional exchange, but through Nasdaq, a newer quote-driven network that operated without pits or clerks, just screens and a central matching engine.
+
+The breakthrough nearly killed his business.
+
+A Nasdaq employee, making a routine visit to one of its fastest-growing clients, stepped into Peterffy’s office and froze. A computer was placing trades on its own. No human in sight.
+
+Unbeknownst to Nasdaq, Peterffy had hijacked the terminal’s data line. For most traders, the terminal was just a screen and keyboard; a way to type in orders, one at a time. But Peterffy had wired it into his own computer, pulling live prices straight from the feed, running them through his algorithms, and sending trades back out through the same cable.
+
+The Nasdaq employee gave him one week to make it right. All trades, he insisted, had to be entered by a keyboard, typed one after another, just like everyone else.
+
+Peterffy and his team worked through every night for a week. They soldered circuits and wrote code in shifts. They mounted a camera above the terminal screen to read the prices, then built a frame of metal arms and tiny motors suspended above a keyboard. When the computer spotted a trade, signals fired through the contraption, and the metal fingers began to type like a mechanical spider.
+
+When the Nasdaq man returned, he found an office transformed. The suspicious silence was gone, replaced by the violent percussion of automated typing. Peterffy’s creation attacked the keyboard in bursts: rat-a-tat-tat, pause, rat-a-tat-tat-tat. Each sequence spelling out buy and sell orders faster than any human could think, let alone type.
+
+The employee watched in silence, then left without a word.
+
+“He did not like this one bit,” recalled Peterffy, who offered to install a mannequin operator, complete with moving arms.
+
+The system survived, and despite a few hiccups—including a $3 million loss when a drafty door triggered phantom trades on a backup device—Timber Hill made $25 million that year, and $50 million the following year.
+
+By the end of the decade, Peterffy’s market making network stretched from New York to Chicago to San Francisco, then overseas to Frankfurt, London, and Hong Kong. Goldman Sachs made repeated acquisition offers that climbed to $900 million. Peterffy turned them all down. When pressed for his price, he said “$3 billion,” a quiet way of ending the conversation. He wasn’t selling. He was building his most ambitious hack yet: a platform that would give ordinary investors the same technological advantages he had created for himself.
+
+In 1993, he launched Interactive Brokers.
+
+For the better part of the 1990s, Interactive Brokers was an elegant solution to a problem that didn’t yet exist. The infrastructure was ready, the technology was sophisticated, but the market—particularly in the US—remained stubbornly analog.
+
+Around the turn of the millennium, the great automation of American exchanges began to accelerate. Nasdaq had been born electronic, but now the most tradition-bound exchanges were surrendering. Even the New York Stock Exchange, the column-clad cathedral of shouted orders and hand signals, was giving way to the sterile hum of computer servers. Wall Street was becoming a screen-based business.
+
+The floor traders who had once mocked Peterffy’s folded sheets and handheld computers found themselves staring into obsolescence.
+
+“They knew I was an honest business person, and they needed a way to continue their business on a computer from their office,” he told me. “So they became our customers, and that’s how Interactive Brokers became the broker for professional traders.”
+
+As Interactive Brokers began its ascent, Timber Hill entered its twilight. The technological and analytical revolution Peterffy had pioneered was evolving beyond his original vision to become a speed contest.
+
+By the mid-2000s, market makers like Citadel were spending hundreds of millions on microwave towers and fiber optic cables in a bid to shave microseconds off execution times. Timber Hill was left with their exhaust fumes. When I asked why someone who had spent his entire career pushing technological boundaries suddenly refused to push further, Peterffy first offered a practical explanation.
+
+“I thought it would cost me billions of dollars,” he said, before something more honest emerged: “I also felt that I knew everything there is to know about market making. It was not interesting to me anymore.”
+
+His eyes brightened as he continued: “But how to build the best platform for people to trade? That was a challenge.”
+
+In May 2007, when Peterffy took Interactive Brokers public, Timber Hill still generated 80% of the company’s revenue. The IPO wasn’t about raising capital; he owned close to 100% of the business, having built it with Timber Hill’s cash flow.
+
+“We needed advertising for Interactive Brokers,” he said. “I thought it would put the company’s name in the public domain. I hated spending on advertising.”
+
+Rather than pay the substantial fees demanded by bulge bracket investment banks, he chose a Dutch auction—a more democratic mechanism—and hired an obscure firm to list 10% of his business. It saved him $80 million. It also meant no roadshow, no syndicate, and very little attention. To this day, Interactive Brokers remains underfollowed by analysts. The marketing event he’d hoped for never materialized.
+
+So he kept building. By 2017, Interactive Brokers had so thoroughly eclipsed Timber Hill that Peterffy shut down the market making operation entirely, ending a 40-year run that had once made it the world’s largest options market maker.
+
+What remains is a tightly engineered machine: a pure-play brokerage with four million customers, over $700 billion in client assets, and just 3,000 employees—most of them engineers. In 2024, it generated $3.7 billion in profits on $5.2 billion in revenue. The company he took public at a $12 billion valuation is now worth over $105 billion.
+
+The firm runs on Peterffy’s original premise: automate everything. That ethos drives the business to charge fees so low that rivals no longer try to compete on price. Instead, they offer “free” trades while harvesting profits through hidden spreads. Interactive Brokers remains the platform of choice for hedge funds, professional traders, and anyone who understands that there are no free lunches on Wall Street.
+
+“What’s the secret?” I asked, as our discussion wound down.
+
+“It’s all common sense,” Peterffy said. “Hard work and common sense. That’s my story.”
+
+I brought up Costco, a comparison investors like to make. Both companies are built on the radical notion that you can make more by charging less. One of Peterffy’s neatly groomed eyebrows lifted.
+
+“I’ve never been to Costco,” he said.
+
+I asked if he had studied other businesses, or learned from mentors. The question seemed to exhaust him. His eyes closed briefly.
+
+“I’m sorry,” he said. “Can you repeat that?”
+
+When I did, he replied: “I’ve never read a business book.”
+
+In 2019, on his 75th birthday, he stepped down as CEO, handing the reins to Milan Galik, a Slovakian software engineer who joined the company in 1990. Peterffy gave up horse riding at 70 and skiing after a fall, but retirement is out of the question. He’s 80, chairman of Interactive Brokers, still owns nearly 70% of the business, and says he’s “sort of running the sales and marketing department because nobody wants to do it.”
+
+He’s come to see he was wrong about marketing being a waste of money and is treating his new domain like a math problem.
+
+“I really know nothing about it,” he said, almost cheerfully. “So I’m learning as I go.”
+
+He settled back in his chair, hands folded against his purple dress shirt. When I asked what he’s most proud of, he thought for a moment.
+
+“The money we have saved people in getting markets to be more efficient.”
+
+Then Peterffy suddenly straightened. “I haven’t checked the markets,” he said, lifting his feet from the Home Depot box and turning toward the screen. IBKR Pro flickered to life, a cascade of numbers glowing against the backdrop of Aspen trees visible through his office windows.
+
+“We’re up a buck forty-four,” he announced. “Not bad.”
+
+I stood, thanked him, and let myself out of the house, doing the math in my head. During the three hours we talked, Peterffy had made $1.7 billion.
+
+Dom Cooke is the managing editor of Colossus.

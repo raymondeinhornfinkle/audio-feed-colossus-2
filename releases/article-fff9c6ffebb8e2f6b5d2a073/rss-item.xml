@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <title>Invisible Companies (Colossus)</title>
+  <description>An audio reading of Invisible Companies from Colossus.</description>
+  <link>https://colossus.com/article/invisible-companies/</link>
+  <pubDate>Wed, 16 Sep 2026 16:19:52 GMT</pubDate>
+  <guid isPermaLink="false">urn:article-reader:fff9c6ffebb8e2f6b5d2a073d84db80977d2f9583e8afd33c726364ad9540422</guid>
+  <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-fff9c6ffebb8e2f6b5d2a073/article.mp3" length="22081838" type="audio/mpeg" />
+  <itunes:author>Jay Barney, Haiyang Zhang &amp; Jerry Neumann</itunes:author>
+  <itunes:duration>00:23:00</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>

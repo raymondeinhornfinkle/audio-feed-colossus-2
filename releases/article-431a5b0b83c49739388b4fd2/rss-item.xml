@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <title>The Amusement Park for Engineers (Colossus)</title>
+  <description>An audio reading of The Amusement Park for Engineers from Colossus.</description>
+  <link>https://colossus.com/article/the-amusement-park-for-engineers/</link>
+  <pubDate>Wed, 16 Sep 2026 16:11:38 GMT</pubDate>
+  <guid isPermaLink="false">urn:article-reader:431a5b0b83c49739388b4fd2dd7c3251aeb57ef63267ff3a21fa9e63fa2cebfd</guid>
+  <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-431a5b0b83c49739388b4fd2/article.mp3" length="44616479" type="audio/mpeg" />
+  <itunes:author>Adnan Esmail</itunes:author>
+  <itunes:duration>00:46:28</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <title>The Making of a Market Maker (Colossus)</title>
+  <description>An audio reading of The Making of a Market Maker from Colossus.</description>
+  <link>https://colossus.com/article/thomas-peterffy-market-maker/</link>
+  <pubDate>Wed, 16 Sep 2026 16:20:15 GMT</pubDate>
+  <guid isPermaLink="false">urn:article-reader:209f272bd87301e83402e4816b5ca063e0b10e169a752a268d3a830c174a5a9e</guid>
+  <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-209f272bd87301e83402e481/article.mp3" length="38028952" type="audio/mpeg" />
+  <itunes:author>Dom Cooke</itunes:author>
+  <itunes:duration>00:39:37</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>

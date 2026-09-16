@@ -1,0 +1,132 @@
+{
+  "article_id": "0c3aeb6d8cde4334405c17bd8e8696f5273a40c2f06ce4ffb4a96beb54aa30eb",
+  "guid": "urn:article-reader:0c3aeb6d8cde4334405c17bd8e8696f5273a40c2f06ce4ffb4a96beb54aa30eb",
+  "release_name": "article-0c3aeb6d8cde4334405c17bd",
+  "article_title": "Are We Underestimating How AI Will Change Private Markets?",
+  "publication": "Colossus",
+  "title": "Are We Underestimating How AI Will Change Private Markets? (Colossus)",
+  "author": "Donald Lee-Brown & Terran Mott",
+  "source_url": "https://colossus.com/article/are-we-underestimating-how-ai-will-change-private-markets/",
+  "duration_seconds": 3401.14,
+  "file_size": 54420043,
+  "media_sha256": "df3096d7f0f0f05976b5cdd357350d036579e0633bca6b692b5d7379c5f25e17",
+  "transcript_sha256": "d18575a71c10e02c618ec07d01d79be64d42ae04a1db4491965b6314d77211c7",
+  "extraction_report_sha256": "9902405ad29a40a52c328c1a742e012c8ffd42f94b973a4778f9c279b3aa434d",
+  "audio_manifest_sha256": "e96931cb77b8da0238416f1a08e35c431a70ee38cf2fed702082585e9c5e6fc6",
+  "audio_run_sha256": "bb2a549fe852ce2e18a736520cd7d7bd70ada99d6836d035ae0cdaf7d9296512",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 15,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "d1068766eaf25f00a059245281fb54eb974538f0b9283c054d15a8677f3ec975",
+      "audio_sha256": "ff44d299db3867ebe13b4752e63b8d9c3decf91471c0f5dee12587651fff6f76",
+      "pcm_frames": 5183040
+    },
+    {
+      "index": 2,
+      "text_sha256": "11fb6e38dbdf2334fcfbcad66a10977c3f860292520664ac706c4426537a24d6",
+      "audio_sha256": "7e97ec3846eff532f8afe544a7fe1243be224084d14bd0830a201e75d1bc327b",
+      "pcm_frames": 5915520
+    },
+    {
+      "index": 3,
+      "text_sha256": "7a50dd34cf852f1dffe2f7116d5f9bcd92d273491d4d9896f0e5a4e52f1bb0e3",
+      "audio_sha256": "17c6c059c687eec6b370dab9c7e69a694a9359f21da93d56849582602401491d",
+      "pcm_frames": 5505720
+    },
+    {
+      "index": 4,
+      "text_sha256": "b6a02b526e8eb520eca462be951bf5fb070e76a378122d0bb5ddde73c3b10651",
+      "audio_sha256": "142eba0c47f4ab5baee88e708a10a21b232152f33fd465e674178166da67cb3e",
+      "pcm_frames": 5603040
+    },
+    {
+      "index": 5,
+      "text_sha256": "918d400a65d03426db3b05e70f574e7b40c32291b2fac8327d573d8cbe7d4a87",
+      "audio_sha256": "75d1c07a4e45a01c7655ea97b49658fb6cf1a463f59c499e8295b9276b827046",
+      "pcm_frames": 5900160
+    },
+    {
+      "index": 6,
+      "text_sha256": "5a7e572fe6b6f2dbc3ff4ce2997c92561ac4d67ef846852a8edb4e11b6c194da",
+      "audio_sha256": "e16d146bbd36426c7e39460c019870cef1459b912643507fef4e9a2c0eb90a20",
+      "pcm_frames": 5841960
+    },
+    {
+      "index": 7,
+      "text_sha256": "43fde9f486a40a7e93ac3f843a0791a36d9af679cd1fea72c7428592070c2d4b",
+      "audio_sha256": "609c2199e26ba6fa62376a675e6ad955cbd63410401c4dbd642617f3a1dcd724",
+      "pcm_frames": 5703000
+    },
+    {
+      "index": 8,
+      "text_sha256": "c80e0b67acb17b02de221b5cc6ab0ffdb0c06b6b03ba17ff368abea247c9919f",
+      "audio_sha256": "803e50e721677397a4c34952d4c800062464b0f5872e9e7c7d86f942a7d516b1",
+      "pcm_frames": 5442360
+    },
+    {
+      "index": 9,
+      "text_sha256": "2457ec67d144baf47236888fe8e8e4881fb5bbf247b8719ff12349e08c81e1ae",
+      "audio_sha256": "3d96e68e4fd05fe81e9bdd58a5fb8bc794625fecef7216eca9a2e57c6076490f",
+      "pcm_frames": 6156360
+    },
+    {
+      "index": 10,
+      "text_sha256": "a856805f53839d8e1161c3f5571608fced7f90f3719c9a518fe6e06afe9b76f1",
+      "audio_sha256": "300538c27d53f597f36811423ed206cb9df738fd15a1461b22a76b09d3698d42",
+      "pcm_frames": 5615520
+    },
+    {
+      "index": 11,
+      "text_sha256": "dcc157e846b39a66605d5b99d6b1d926f68ae5535e2f08da7991efbb3f033ac0",
+      "audio_sha256": "bb5f06dac7c9379fd255d939c8fb826c98bf0d07e72525865e83312a8a21a191",
+      "pcm_frames": 6096240
+    },
+    {
+      "index": 12,
+      "text_sha256": "46d4616daf8bb010705191419170795efdb00e88c5a6e11fdd53fec7a0555808",
+      "audio_sha256": "9fb7907ff82425c21e8623bf0044694f7cd4c8562fedcb6de1c04fc281a2c592",
+      "pcm_frames": 6072480
+    },
+    {
+      "index": 13,
+      "text_sha256": "e3797fb067beed94515133594475d71c2a5cad344c472fbe9662e63c571e7a88",
+      "audio_sha256": "103fcd76c1fbb368cf60fdb784d1be89fc7985d442656e763fac37c4cfdb55e7",
+      "pcm_frames": 5932440
+    },
+    {
+      "index": 14,
+      "text_sha256": "790b5d7d5834c75a91376f9f4bdaa7c6e495db9578ff244f60f8da45a85d096e",
+      "audio_sha256": "39989ac46cb290af7b9cf19140657d4e63be60df2deb70a5af67c200c1ac4962",
+      "pcm_frames": 5952480
+    },
+    {
+      "index": 15,
+      "text_sha256": "392fd602cc81cac438dde64cef5364bb168de343f9d4a1063d8e0cdc7c26adc4",
+      "audio_sha256": "60a5dcd7d819d0c72d1aa09e7074dba82c58f28e49db6852e12d943e7dfa60fb",
+      "pcm_frames": 707040
+    }
+  ],
+  "pcm_sha256": "b26b712ca437d5540ca0dda06daa2a5c3030fccec66c0a820d5cb063c6481c36",
+  "pcm_frames": 81627360,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-0c3aeb6d8cde4334405c17bd/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-0c3aeb6d8cde4334405c17bd/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-0c3aeb6d8cde4334405c17bd/rss-item.xml",
+  "released_at": "2026-09-16T16:13:13.864154+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

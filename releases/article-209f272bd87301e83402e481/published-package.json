@@ -1,0 +1,102 @@
+{
+  "article_id": "209f272bd87301e83402e4816b5ca063e0b10e169a752a268d3a830c174a5a9e",
+  "guid": "urn:article-reader:209f272bd87301e83402e4816b5ca063e0b10e169a752a268d3a830c174a5a9e",
+  "release_name": "article-209f272bd87301e83402e481",
+  "article_title": "The Making of a Market Maker",
+  "publication": "Colossus",
+  "title": "The Making of a Market Maker (Colossus)",
+  "author": "Dom Cooke",
+  "source_url": "https://colossus.com/article/thomas-peterffy-market-maker/",
+  "duration_seconds": 2376.71,
+  "file_size": 38028952,
+  "media_sha256": "0c37828241b20c84516d1f49b68e4272cdabab3f6aee083e60eb58f589a6d36d",
+  "transcript_sha256": "5e9e931e56d2e7b8f142d68f291e9f2bebaa922bee35d3ed55390b0c30f07e64",
+  "extraction_report_sha256": "8e48e60042c3b3e6a5ec03e5753bbc006b23f59ed2a1eafabaf5894f04e57bd7",
+  "audio_manifest_sha256": "314906de3eee12710f417fa4eb6ffc2cd8adc2bc0016bda89180783a28180d93",
+  "audio_run_sha256": "1e708a9fd3bb2c962a6237f1a1194bf279cc7d86aa0f8cb16d6d04fe3cc8447d",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 10,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "6e0ecd2bf217a1700b0c262f3f0d49f5a049f9729a09d1c5bdcb7b88dca0983c",
+      "audio_sha256": "c23c051d477c5ab6cb9fcaa264315c2646009ce50bd9be18518121b92ea8a42d",
+      "pcm_frames": 5847480
+    },
+    {
+      "index": 2,
+      "text_sha256": "1c982a12ab7515f901c385294148baed9e662c3a3df0eea3a9d771c79ecf1b91",
+      "audio_sha256": "b1a3352fd2bae74457b035b1fe9a16648cde95fcec5093956050de0dbb812eb3",
+      "pcm_frames": 5628600
+    },
+    {
+      "index": 3,
+      "text_sha256": "4788784f86d2c7a58b99a041ca09bcf3d84dce6ea1cbbc228ff807a06b367d3a",
+      "audio_sha256": "6955705950bdc53935d826ca93bb5238282f0f18a1e681e9b5bc3a1e0ca44732",
+      "pcm_frames": 5412720
+    },
+    {
+      "index": 4,
+      "text_sha256": "43a5056d4c3ee892dead9ab499005ab5a408230e8c0b3b2956a10640f99796b3",
+      "audio_sha256": "a4b4849723b7706e8fe589cf767ab026a9cada4ff9c6f586dcb7de08b240cc97",
+      "pcm_frames": 6045120
+    },
+    {
+      "index": 5,
+      "text_sha256": "fc62db2dddd7eee7f1f322f41d84edbd6a936b47caa4d4521ec140257151997b",
+      "audio_sha256": "742e84ff687ed67c288f976f52290afae576f0667e8e23db98c034ad9aee4fa9",
+      "pcm_frames": 5751240
+    },
+    {
+      "index": 6,
+      "text_sha256": "4e0aa1a7caded1bd60960651eeaf13f8684573246a5be164f71c4356b84dbba7",
+      "audio_sha256": "0d0aba58713b099a4a5048146e285f66e235e681cd448a94d5e75cc831f368cb",
+      "pcm_frames": 6349680
+    },
+    {
+      "index": 7,
+      "text_sha256": "832d1811bdf085e4f3736c86539a218dac139b9fc4e870e71043c1d3da9023a1",
+      "audio_sha256": "cb8932147a7821c871f469d8151b28c578039807c68f06b64bd47bb8f074918a",
+      "pcm_frames": 5899680
+    },
+    {
+      "index": 8,
+      "text_sha256": "45227aa7a8583c7ac5ebb0858f56637d742a6c277bd4235170e50684d82a0697",
+      "audio_sha256": "7aeff20119e6202d1fff3dc2d193a375a48e2d2ee5d0adc5bc9f46024308ca6b",
+      "pcm_frames": 6118680
+    },
+    {
+      "index": 9,
+      "text_sha256": "f1213719f6b047bf6317cdc5e81b8df525ae24a41f8f59074a377f3a09939b8c",
+      "audio_sha256": "acad1e29ecd8ac99d0d52880735edcd429e6c9d5cd7a41ffdc971197330bf417",
+      "pcm_frames": 6231000
+    },
+    {
+      "index": 10,
+      "text_sha256": "712db0e5483bd3c5e034ddbed8db590c0129ec27be322577beedb7e2e074fa32",
+      "audio_sha256": "24e0d04d30e9c841c19c93fe08245845a24c824b17375ca51de4eb8fa3bbecbe",
+      "pcm_frames": 3756840
+    }
+  ],
+  "pcm_sha256": "31fa08210de9d2cf807b1e655256c7d031c4d97a19c92366635e4ca0e21de4aa",
+  "pcm_frames": 57041040,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-209f272bd87301e83402e481/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-209f272bd87301e83402e481/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-209f272bd87301e83402e481/rss-item.xml",
+  "released_at": "2026-09-16T16:20:15.290489+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

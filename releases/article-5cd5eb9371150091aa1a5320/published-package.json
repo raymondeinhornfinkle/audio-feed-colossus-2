@@ -1,0 +1,204 @@
+{
+  "article_id": "5cd5eb9371150091aa1a532056717ab7c480e611172d0837730ad9ac6853d194",
+  "guid": "urn:article-reader:5cd5eb9371150091aa1a532056717ab7c480e611172d0837730ad9ac6853d194",
+  "release_name": "article-5cd5eb9371150091aa1a5320",
+  "article_title": "Class Dismissed",
+  "publication": "Colossus",
+  "title": "Class Dismissed (Colossus)",
+  "author": "Jeremy Stern",
+  "source_url": "https://colossus.com/article/joe-liemandt-class-dismissed/",
+  "duration_seconds": 6167.63,
+  "file_size": 98683663,
+  "media_sha256": "b3e932705073aa0fe9ff5ab0948a8c707444d0ec09d5f2a30687491dad06a48f",
+  "transcript_sha256": "2e518d690d201f7f0c07342287dd7854c5e419c1cb1254b9aac73ec9d07d309c",
+  "extraction_report_sha256": "05373b2fdf69627e9691b520077ef17933a9354f822fe68fab749b496bc9e4d8",
+  "audio_manifest_sha256": "c36650d1c894c3e054ad19398474d155e8cbf5bef559470c2ec9c5da6b24a037",
+  "audio_run_sha256": "f26100eeee910c57e6384aee2a16abf564b0ac158e0b7da12c6843b37c865edc",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 27,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "84bfc6d147f4268974824bdebfefe15b6846f7ee907285e01dcf88e8c60a73a7",
+      "audio_sha256": "fd21f7f39954da3bea660e14b56d20f646dc0e68982bb6934fa131a32ced4272",
+      "pcm_frames": 5783280
+    },
+    {
+      "index": 2,
+      "text_sha256": "f91b2109ab8665fa2756188eb31379c9ea4a3dd4ec3d4a015b593dde52aadb5a",
+      "audio_sha256": "df09a5b87551f6b5d63657c6a76fe8e11bd917ba9896fc9d087b704eb5e505ba",
+      "pcm_frames": 5245920
+    },
+    {
+      "index": 3,
+      "text_sha256": "355c5ff736f01d4c7e7d94bd915e9cb19bff8fc6b0f21ac03d74de5a57f19357",
+      "audio_sha256": "67a4db7d525d41bd72e5a05519a8fcbd2a4940e97d2b792f95ef1eef6a36c0f6",
+      "pcm_frames": 5184240
+    },
+    {
+      "index": 4,
+      "text_sha256": "7b8ff75faf29e92d52a68c1b315bb9cf71eae7aeecbb2f29129d3c1c189e9db6",
+      "audio_sha256": "4a7e73e35717c6858eb74b34def167d73c385c77538f4209ac038befede26b90",
+      "pcm_frames": 5855160
+    },
+    {
+      "index": 5,
+      "text_sha256": "b804eec9e100aa9c53e1b544106d81d3eb04d50fa96786b9dabe8b3fcee1f509",
+      "audio_sha256": "3a9ecb0c4fb8c9ff59245e44c8f793b85a2e5fbe8da69ff0d2046b6f528593d9",
+      "pcm_frames": 5733600
+    },
+    {
+      "index": 6,
+      "text_sha256": "611084189908b8982235c51bb18d9b94e60ab5fcafa8719c81ba95028aa25c9d",
+      "audio_sha256": "6ea8d815e72131718126e25a29b4bf203c505bdbe9a949377cb5a12061832b86",
+      "pcm_frames": 5613000
+    },
+    {
+      "index": 7,
+      "text_sha256": "cea2e6fe8f51fa95d640fe6cf4a08b44d724b5cc52929b77b2627661af0233ad",
+      "audio_sha256": "2e63bfccdd4250b746f1e15e82c3a5e52b6a4a7c2024c7efc6e9408c8defb489",
+      "pcm_frames": 5399160
+    },
+    {
+      "index": 8,
+      "text_sha256": "48dc15880ebe21b494a48a168f6cd0753063346010e5fa3024509e98e426ed5b",
+      "audio_sha256": "415e70027799301d7cc8b807daff79eb4cfee9ef5f142c351e7b4eaba581745e",
+      "pcm_frames": 5343120
+    },
+    {
+      "index": 9,
+      "text_sha256": "f76516307dbc616271af6d47c09eca37147e032e634f92e94017a0d355a1dc1d",
+      "audio_sha256": "a8b4df0d3ca5c1973cfc462c7a2db0fe98083c21138f1096e1524cd54a3720f9",
+      "pcm_frames": 5796120
+    },
+    {
+      "index": 10,
+      "text_sha256": "b8d24cbe35b0122becdbacdb99a7270816d8392a08d424995adf38899c1c6db4",
+      "audio_sha256": "c70255e2582029928e66b3038bf656ff02649f4e89d06a0fec23b612fcc6269a",
+      "pcm_frames": 5398320
+    },
+    {
+      "index": 11,
+      "text_sha256": "1f7486c985243dc1fe0977637f9b8fa4556cb9bec6f372ea8ef31aa29a1edc4a",
+      "audio_sha256": "9e1ae31766fec941b3f7491bd53291b06d960024eeb230fb2e8f96aea4bf28a7",
+      "pcm_frames": 5353440
+    },
+    {
+      "index": 12,
+      "text_sha256": "6ab509a4dfcf7cd618cf875068d65ea94116a02f12472cfc183f804e4b4e1caf",
+      "audio_sha256": "b93bfe310c70e0d84c675fa68c7bbdabb64975bd2ccbe045ced3822d06f3176e",
+      "pcm_frames": 5826720
+    },
+    {
+      "index": 13,
+      "text_sha256": "71feb504421e9232b556ada33f7eef5dcd654ff87d1829c37ce88156360b22a2",
+      "audio_sha256": "0608d9661f937782ce12088e050e7adc68ffd71b85ddb3622b2dceaf0caaba3c",
+      "pcm_frames": 5584440
+    },
+    {
+      "index": 14,
+      "text_sha256": "0027595134ae0dddd6dea631ebade89e45c675284d170623c510444a2c0a0364",
+      "audio_sha256": "debbabc98c4a72fd8bf45097676f14562e010f70e85b7ba980930df9e7126530",
+      "pcm_frames": 5685840
+    },
+    {
+      "index": 15,
+      "text_sha256": "ee4996097f7e2c76a13d78ae35cce6f24a203c4c84753f233f92a0189ff0c69c",
+      "audio_sha256": "4495c628a7f7b1843c996d558c2f0dc9e42b10d2fabe5eaff17108e89623c3a2",
+      "pcm_frames": 5668800
+    },
+    {
+      "index": 16,
+      "text_sha256": "3b6277a2bb38a829d617bcab1d1973b0c2e3d886ac18c353504456f8d047cc38",
+      "audio_sha256": "e3c5942873f9c38f26eb32ba56582916de6e6c71ab12a1ac5efa0f88aefe83ff",
+      "pcm_frames": 5422440
+    },
+    {
+      "index": 17,
+      "text_sha256": "50cc7e89705a11c8c3c2b48d3f376824fa3c7cea75dcebaa4f6f785ddac14453",
+      "audio_sha256": "d14c89e84b9485e09cf206d657decc35f2913bafe6ac18af8447da530e1a5953",
+      "pcm_frames": 4851360
+    },
+    {
+      "index": 18,
+      "text_sha256": "87671a26e4c7906326c13d65244df068d6d7414c148475ab5285a868ee6edb53",
+      "audio_sha256": "327924c496602c9b25d184660cd1ef62a3e6893e3c4f7a43688559d2b143891e",
+      "pcm_frames": 5702520
+    },
+    {
+      "index": 19,
+      "text_sha256": "6dd70131873ed0896422f75a3bbb9fe6cddb48ac010535790201e8dc7d66f2a5",
+      "audio_sha256": "1eb6e0311377bbf47338adc524518d8617539510a174d22344b6ef345d569031",
+      "pcm_frames": 4823640
+    },
+    {
+      "index": 20,
+      "text_sha256": "3ef00c18a3ecefd2bcd83568008904ea0d601f36d92c1e6ed754184b94946462",
+      "audio_sha256": "7510d98a48611855f3ee6e923f910d1aa817ced682a3a59cdaefc6bb4b23c37f",
+      "pcm_frames": 5597880
+    },
+    {
+      "index": 21,
+      "text_sha256": "0da92e5265085b44024570de804842a35ef3e06eba16c490ba1823b2d9fecfc5",
+      "audio_sha256": "53ad7a833128bb18b87808d359aeb990c13dba46ccbbbb282a29729f322bbfbf",
+      "pcm_frames": 5350200
+    },
+    {
+      "index": 22,
+      "text_sha256": "086b3407953e71e6836f4fe85129004d185146aad14c1bb6a2702c82288e2c0f",
+      "audio_sha256": "ea7dad396aa4339ed36d0ca70df58d87dae01646ed24d419b04d1b3eb59fcfb3",
+      "pcm_frames": 5258760
+    },
+    {
+      "index": 23,
+      "text_sha256": "7b6e208e02fee314092e0af1dca0ad09c05a650831999b62232a1dbb1214f1b8",
+      "audio_sha256": "fcd57903a6faa550d95dc8302b21101a2e8a92fd1f58ac364dbd5b3daecb8b0a",
+      "pcm_frames": 5772120
+    },
+    {
+      "index": 24,
+      "text_sha256": "fc2674d0bcacf680c643d4c34caee4b8c6b480a2e21c403fa22adbe55b84a6b3",
+      "audio_sha256": "025d556b74bf83f45ef139f08753a1f02d4ac19e36e4f9994b8ad811bed0b05e",
+      "pcm_frames": 5118120
+    },
+    {
+      "index": 25,
+      "text_sha256": "065bbce04c7dea0e9981143b271dc9263743cfe61a99844623a6edc58f8b0cb0",
+      "audio_sha256": "15980bae8c9925f3190d1e7fe200a9b465a3fdc9e81b5bd5749d67463f548d35",
+      "pcm_frames": 5767200
+    },
+    {
+      "index": 26,
+      "text_sha256": "cbb1c526fc999489b9a46d930836ad0f267152d53c134e580e85a17b1e1069a7",
+      "audio_sha256": "2c3e6fea7a7438e874e757b4bda63a3cab0e41051f66bca1442559d2c05349d4",
+      "pcm_frames": 5588760
+    },
+    {
+      "index": 27,
+      "text_sha256": "6183281b404b4f54356cdf6acbf26dc61b1fbaa4421c211553f0966b2bb2647f",
+      "audio_sha256": "b2ff2c0db9d98efbbf0bcdd266dccf87fb6d6807382549f7af7d7ef2e862d1ce",
+      "pcm_frames": 5298960
+    }
+  ],
+  "pcm_sha256": "647c798013939e767b0bdbb9f5931ae01f8f0f73608a54aa9bde74aa7c38c5de",
+  "pcm_frames": 148023120,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-5cd5eb9371150091aa1a5320/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-5cd5eb9371150091aa1a5320/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-5cd5eb9371150091aa1a5320/rss-item.xml",
+  "released_at": "2026-09-16T16:18:11.362278+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

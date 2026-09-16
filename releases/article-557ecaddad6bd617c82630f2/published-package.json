@@ -1,0 +1,78 @@
+{
+  "article_id": "557ecaddad6bd617c82630f2a8fbf259da3019ade5de81c762b8fdc524946bdb",
+  "guid": "urn:article-reader:557ecaddad6bd617c82630f2a8fbf259da3019ade5de81c762b8fdc524946bdb",
+  "release_name": "article-557ecaddad6bd617c82630f2",
+  "article_title": "Flounder Mode",
+  "publication": "Colossus",
+  "title": "Flounder Mode (Colossus)",
+  "author": "Brie Wolfson",
+  "source_url": "https://colossus.com/article/flounder-mode/",
+  "duration_seconds": 1236.86,
+  "file_size": 19791243,
+  "media_sha256": "5f8f1e51b6476369469b403d36c3c68d81b8488ff8da6ca14389e5363f443edc",
+  "transcript_sha256": "125fbdbc5b1a7075ff1d54339c200b94537e67d2476e5f596c9d0c1cb5b6e1c1",
+  "extraction_report_sha256": "fdd0a3d90f0c29e36bb6b118ef8b56d24b88edd61c3744c63a9c5f3e0d2e5ee2",
+  "audio_manifest_sha256": "b83ac94c6df33a77d9255df10158d2fb6fa71bb5f4418cf6ef0fbae892b868f0",
+  "audio_run_sha256": "ea85852460fed3271b1cdb0220ae24aefe165d7541ca77bafb4cc0df169f0771",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 6,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "2b1bb6e09a5238e7007f7dd703e5ee277f7cfca01b3c6e84d8d0291da4e6d016",
+      "audio_sha256": "057f50246ca75eacb8a2df632cc967c75231bb5a5abac3b1aef4618c8e5e9530",
+      "pcm_frames": 5960640
+    },
+    {
+      "index": 2,
+      "text_sha256": "7b127f85c77dd60cdd66765dd8f290c53c2bd6397e612d8a0215f8f2b284f0f7",
+      "audio_sha256": "4e9ac220b7c91026c8411580b220b10a4620df7bf4ef9ab95bf42470a60df541",
+      "pcm_frames": 5441640
+    },
+    {
+      "index": 3,
+      "text_sha256": "2cf7bffe673c2e5e1b1e7a6ab8dce99ae2f154c9764424a7e8ced47224bcc949",
+      "audio_sha256": "001e881b5adb3ef2ba310436168e922a23a0d44ab4f81fe680812f68841ac698",
+      "pcm_frames": 5448480
+    },
+    {
+      "index": 4,
+      "text_sha256": "c7e811da1c7c10c4f9859b5bc40ad7dc47588f2ea9c4919a4cc5d6136db69d11",
+      "audio_sha256": "483e9c1b34387c2d0ec03579cc905c48441e78ba289df96a2808a4938923346b",
+      "pcm_frames": 5624640
+    },
+    {
+      "index": 5,
+      "text_sha256": "1c8a457f2d7825404b4cea222278c9b3da096aacd57e17324fae22121cf56033",
+      "audio_sha256": "2f4309defe6a96db41d786ebe61d128341f873181c7763f55de25be5e013896e",
+      "pcm_frames": 5589360
+    },
+    {
+      "index": 6,
+      "text_sha256": "e8a86eca243911c3533d40a91391f4a83c76494417d42a342958337f78b97cb5",
+      "audio_sha256": "81c90f5c3e7f8452191f3d02427d051a29b1038868a555571b6575606223bdfa",
+      "pcm_frames": 1619880
+    }
+  ],
+  "pcm_sha256": "84e2d1158eb3220eaa7951848351f5fcc71ab675be0756385fb5c5f182ad438b",
+  "pcm_frames": 29684640,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-557ecaddad6bd617c82630f2/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-557ecaddad6bd617c82630f2/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-557ecaddad6bd617c82630f2/rss-item.xml",
+  "released_at": "2026-09-16T16:18:49.398076+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

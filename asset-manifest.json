@@ -3,5 +3,210 @@
   "capacity_bytes": 900000000,
   "backing_base_url": "https://github.com/raymondeinhornfinkle/audio-feed/releases/download",
   "release_base_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases",
-  "assets": []
+  "assets": [
+    {
+      "release_name": "article-09cb1854a6f5e19fa1d2fa9a",
+      "source_url": "https://github.com/raymondeinhornfinkle/audio-feed/releases/download/article-09cb1854a6f5e19fa1d2fa9a/article.mp3",
+      "bytes": 35753366,
+      "sha256": "b8f97bcd9aa9ee4cbe3270bbe58276af26c62b77aa89ff1eb9ed71d9674db20a",
+      "destination": "releases/article-09cb1854a6f5e19fa1d2fa9a/article.mp3",
+      "metadata": {
+        "transcript.txt": "79d8a9d0ddda850af5c7db15d712eba15f272329ffddc3a6d8e3c13ca9aeff8d",
+        "rss-item.xml": "212c6473870ecfb19ec3c4e0154c7b6b3e16811764fd662db87c99ee352ee95d",
+        "published-package.json": "bbde508d7aedf4f4dbcbf014beb7da3be8d42f2bd17c235741891b02495fd914"
+      }
+    },
+    {
+      "release_name": "article-0c3aeb6d8cde4334405c17bd",
+      "source_url": "https://github.com/raymondeinhornfinkle/audio-feed/releases/download/article-0c3aeb6d8cde4334405c17bd/article.mp3",
+      "bytes": 54420043,
+      "sha256": "df3096d7f0f0f05976b5cdd357350d036579e0633bca6b692b5d7379c5f25e17",
+      "destination": "releases/article-0c3aeb6d8cde4334405c17bd/article.mp3",
+      "metadata": {
+        "transcript.txt": "d18575a71c10e02c618ec07d01d79be64d42ae04a1db4491965b6314d77211c7",
+        "rss-item.xml": "6373a3ad81263a2dcec6b59df868294dbe880d50041beff6fb2f06f1beee8bce",
+        "published-package.json": "26fcb6511cfdd037f21a618fd5b85c95f6640798ef0202854333eab50498a76b"
+      }
+    },
+    {
+      "release_name": "article-0f2d15599020f34908a5f787",
+      "source_url": "https://github.com/raymondeinhornfinkle/audio-feed/releases/download/article-0f2d15599020f34908a5f787/article.mp3",
+      "bytes": 29981842,
+      "sha256": "04e662f67a1967e018b14e72cdbdc5fe4769cbdb77702fbd2075aea57e59d6ad",
+      "destination": "releases/article-0f2d15599020f34908a5f787/article.mp3",
+      "metadata": {
+        "transcript.txt": "57291036d4945e5eb2532ae0b1662637ccbf12a6287f98e4afc355dd6fd98741",
+        "rss-item.xml": "b519054482643fde1699e828fd6d90d781e40b8b589b54cda2590030b79e8225",
+        "published-package.json": "74c6b06674b5279eefddb76848bfbe4d8ea04b1f6c35dba08eea1e2f7519d81d"
+      }
+    },
+    {
+      "release_name": "article-1a4aa5d91541c80645cca7f2",
+      "source_url": "https://github.com/raymondeinhornfinkle/audio-feed/releases/download/article-1a4aa5d91541c80645cca7f2/article.mp3",
+      "bytes": 65406219,
+      "sha256": "e4c8da1a866482cbed03e1a8d89496094ad7f29acf56d80d634cfd0b43a4caf3",
+      "destination": "releases/article-1a4aa5d91541c80645cca7f2/article.mp3",
+      "metadata": {
+        "transcript.txt": "151f5ba1a9aa9f0498a9fe941fe2cbf1e6c74600afc2fb6ae3cafb717dcb26b5",
+        "rss-item.xml": "b3e6c73831b17353a154e0c2d5ec01aa932daeb107030b754450adbca28ca8fd",
+        "published-package.json": "e93d7324ae023e285c7e0adf7060987997ceb29a2d2710498123ab36f38c1f87"
+      }
+    },
+    {
+      "release_name": "article-209f272bd87301e83402e481",
+      "source_url": "https://github.com/raymondeinhornfinkle/audio-feed/releases/download/article-209f272bd87301e83402e481/article.mp3",
+      "bytes": 38028952,
+      "sha256": "0c37828241b20c84516d1f49b68e4272cdabab3f6aee083e60eb58f589a6d36d",
+      "destination": "releases/article-209f272bd87301e83402e481/article.mp3",
+      "metadata": {
+        "transcript.txt": "5e9e931e56d2e7b8f142d68f291e9f2bebaa922bee35d3ed55390b0c30f07e64",
+        "rss-item.xml": "49450327381b4a502659458928f54a6e24ccbfe668e660df4735ab2d0755f419",
+        "published-package.json": "478bc112e1b112d00380aa154f94e48edc958a68ddba193f8127d8c89e76e2d5"
+      }
+    },
+    {
+      "release_name": "article-2728a37fcc65abeaaf41d534",
+      "source_url": "https://github.com/raymondeinhornfinkle/audio-feed/releases/download/article-2728a37fcc65abeaaf41d534/article.mp3",
+      "bytes": 50893340,
+      "sha256": "2c3c881ef77b5c027680f3d42748501ba4a1808424a90ab66438a71a12f14b87",
+      "destination": "releases/article-2728a37fcc65abeaaf41d534/article.mp3",
+      "metadata": {
+        "transcript.txt": "769cd5ec57b2ed147e188e5b7a244a0ede3b99413174adfabeff6611e5a3ecc5",
+        "rss-item.xml": "9df997f5c45b2260f03b881298d5e50adbef8b3122c35c7b15270ad2e2149753",
+        "published-package.json": "9c9a489b4f468036b55b86740f31c58329609d151f8d17cc3628678c93e6fb4b"
+      }
+    },
+    {
+      "release_name": "article-28520f1f0e241de8789d05c0",
+      "source_url": "https://github.com/raymondeinhornfinkle/audio-feed/releases/download/article-28520f1f0e241de8789d05c0/article.mp3",
+      "bytes": 31348883,
+      "sha256": "9e16fc0793f6105d35495a5d49db51be707e008e5194414a855f4ed69d30583d",
+      "destination": "releases/article-28520f1f0e241de8789d05c0/article.mp3",
+      "metadata": {
+        "transcript.txt": "542a445c5d0e25e4ccbfd14ceb2a7b8daffc47a14d1afb97375e16231e5d0928",
+        "rss-item.xml": "cbfdce481b6b98a8fe5eb2c0d65bef2b932984c7b0a3f739f200299b639b7253",
+        "published-package.json": "2bf8e0651f31243ba7a0a2eab87767d866855496d72a5ac2e98397addacf60f1"
+      }
+    },
+    {
+      "release_name": "article-431a5b0b83c49739388b4fd2",
+      "source_url": "https://github.com/raymondeinhornfinkle/audio-feed/releases/download/article-431a5b0b83c49739388b4fd2/article.mp3",
+      "bytes": 44616479,
+      "sha256": "53374e1866862cb91658e9277b8190b5df9841aad4501b9a4740575f56ca1892",
+      "destination": "releases/article-431a5b0b83c49739388b4fd2/article.mp3",
+      "metadata": {
+        "transcript.txt": "ef38a561b11f8fd49264d6c4819837c781c881fd149b4ebb129964f8cb76966f",
+        "rss-item.xml": "f148bfc2f1255c089ed66ec9150475488734e19f1f2bd69662680aa93ded6bcb",
+        "published-package.json": "60a2ad25b22397fb542d05e62bdcac87cfb02bfff42c3639ea01240353d91c4b"
+      }
+    },
+    {
+      "release_name": "article-557ecaddad6bd617c82630f2",
+      "source_url": "https://github.com/raymondeinhornfinkle/audio-feed/releases/download/article-557ecaddad6bd617c82630f2/article.mp3",
+      "bytes": 19791243,
+      "sha256": "5f8f1e51b6476369469b403d36c3c68d81b8488ff8da6ca14389e5363f443edc",
+      "destination": "releases/article-557ecaddad6bd617c82630f2/article.mp3",
+      "metadata": {
+        "transcript.txt": "125fbdbc5b1a7075ff1d54339c200b94537e67d2476e5f596c9d0c1cb5b6e1c1",
+        "rss-item.xml": "734b5330b46039b2863b2e7d2a81f2801f1586971dd044d48b1e0ce501ef96e7",
+        "published-package.json": "64e528c6c883e11f278ed08839a88d38b72bb9c81a11ddbc18d2a89729b05659"
+      }
+    },
+    {
+      "release_name": "article-5cd5eb9371150091aa1a5320",
+      "source_url": "https://github.com/raymondeinhornfinkle/audio-feed/releases/download/article-5cd5eb9371150091aa1a5320/article.mp3",
+      "bytes": 98683663,
+      "sha256": "b3e932705073aa0fe9ff5ab0948a8c707444d0ec09d5f2a30687491dad06a48f",
+      "destination": "releases/article-5cd5eb9371150091aa1a5320/article.mp3",
+      "metadata": {
+        "transcript.txt": "2e518d690d201f7f0c07342287dd7854c5e419c1cb1254b9aac73ec9d07d309c",
+        "rss-item.xml": "491139fdd7834f39042c5e70f84fd20bc07f2eb35297330955e928e292c8a96e",
+        "published-package.json": "5cec8e0b4367e68188d0063aa887f686dfa0aa4d1a9bc7cd66cef5f05b9ac167"
+      }
+    },
+    {
+      "release_name": "article-71e23429f6aa4833eb85aea0",
+      "source_url": "https://github.com/raymondeinhornfinkle/audio-feed/releases/download/article-71e23429f6aa4833eb85aea0/article.mp3",
+      "bytes": 36546737,
+      "sha256": "8ac8de10cf9d858731ddcc54cfb83cb5e0deab877d5b245b3af667aeab287b52",
+      "destination": "releases/article-71e23429f6aa4833eb85aea0/article.mp3",
+      "metadata": {
+        "transcript.txt": "65903ac31eaf22085f5d38f76b9c4c1a20148fcb4e7d25851978f0c27913608b",
+        "rss-item.xml": "1c091c28a1e30e2ea37411f8a854a71492c3ff03dfc071d4d92ab314ca328136",
+        "published-package.json": "ec48a95829a71a0b7d117196293b0110abbc257e3af395fdda0d5c0e751b3505"
+      }
+    },
+    {
+      "release_name": "article-75dcd13efd6f29b90165ea8c",
+      "source_url": "https://github.com/raymondeinhornfinkle/audio-feed/releases/download/article-75dcd13efd6f29b90165ea8c/article.mp3",
+      "bytes": 68265488,
+      "sha256": "be09c3a94dc1607c7cb9a8d3d4db21b22b32c4b8cdc10e50fdc8bac6ab61be26",
+      "destination": "releases/article-75dcd13efd6f29b90165ea8c/article.mp3",
+      "metadata": {
+        "transcript.txt": "6d8e422e7f4d4ac290325ca1bb5e49eddeb998e83d5a076cda379e44758dbda7",
+        "rss-item.xml": "ad9893200ce2d5fcecce48ad78007b62e5f47a26c5dac43ee8b280fd2940ba9b",
+        "published-package.json": "069985fe348ad3ca394b8895067f128bf3c4d65990658f29439515078dd101b4"
+      }
+    },
+    {
+      "release_name": "article-bb2c2d542b55395cfac6efae",
+      "source_url": "https://github.com/raymondeinhornfinkle/audio-feed/releases/download/article-bb2c2d542b55395cfac6efae/article.mp3",
+      "bytes": 62835338,
+      "sha256": "4d73bfec1ea64bc553595ba2ccac8347e6305ec21750477ddc135db6b02f8f2e",
+      "destination": "releases/article-bb2c2d542b55395cfac6efae/article.mp3",
+      "metadata": {
+        "transcript.txt": "d2cc50f7d16441e8bf623b89079a52d934b570e23eba700c0d0fc9722e4b6c2a",
+        "rss-item.xml": "0d7849e76089970ff23763d5ccafa629a11d41d9ca8b9131d7484993025542e9",
+        "published-package.json": "ce403419dcb376d8218ab9daf2a677a550487c8070178398f645be0b0edd9089"
+      }
+    },
+    {
+      "release_name": "article-bdb92e56be358a3549f15a72",
+      "source_url": "https://github.com/raymondeinhornfinkle/audio-feed/releases/download/article-bdb92e56be358a3549f15a72/article.mp3",
+      "bytes": 54842001,
+      "sha256": "13c80ce90ce7027ab6e43f35896f2b7cfbabcd540c75140c871ce33a4ff42e5d",
+      "destination": "releases/article-bdb92e56be358a3549f15a72/article.mp3",
+      "metadata": {
+        "transcript.txt": "4a5c49ddb71203c3e16e60ba7fc608b73e8c4e74198f758e190ee182b4220a9c",
+        "rss-item.xml": "80552fff7f3980774d09706192d6f970227662686b38c70d365c48687bd6ff9b",
+        "published-package.json": "870b86710761c6e2906c4e6712676a17172f80981f27ee623c3c98585dac3b6e"
+      }
+    },
+    {
+      "release_name": "article-c6d0d0aeaaac5f98d5e7a221",
+      "source_url": "https://github.com/raymondeinhornfinkle/audio-feed/releases/download/article-c6d0d0aeaaac5f98d5e7a221/article.mp3",
+      "bytes": 75194398,
+      "sha256": "cccd23e1f567b7e19aba760c23c38f18a60c717cb0c019491b5908a7a80acd9e",
+      "destination": "releases/article-c6d0d0aeaaac5f98d5e7a221/article.mp3",
+      "metadata": {
+        "transcript.txt": "fae0c2edefcdca844a09daa83c61a12cbd82feb9d2158c31745c1fc2db93e3f4",
+        "rss-item.xml": "ed41a35b1cb64af4f7c53c91384abd2850e78db590e3cf3c89ff195b0cfddf4d",
+        "published-package.json": "54fac51f9852f93df34ee417a0ea9bb948a09c067752047c8419440eb5518a96"
+      }
+    },
+    {
+      "release_name": "article-cacee32b34a1d0eaab566f4e",
+      "source_url": "https://github.com/raymondeinhornfinkle/audio-feed/releases/download/article-cacee32b34a1d0eaab566f4e/article.mp3",
+      "bytes": 13080460,
+      "sha256": "3da89079fbeb393e11f523b0f9ef3f23a87d8ec9e61c0a47bec2fbd7aa601354",
+      "destination": "releases/article-cacee32b34a1d0eaab566f4e/article.mp3",
+      "metadata": {
+        "transcript.txt": "cce11d0877b951c1c4101cfcae169c77d45193be34397cd9e70648c365ee522e",
+        "rss-item.xml": "b25cd760191d94e3ea05ae01a95993f3c1260f8fad4e15eea6a3e7d5fc6981eb",
+        "published-package.json": "4c59be2ae43e65aa5f759178c434abf059d42918fb6facefa5b958c547693476"
+      }
+    },
+    {
+      "release_name": "article-fff9c6ffebb8e2f6b5d2a073",
+      "source_url": "https://github.com/raymondeinhornfinkle/audio-feed/releases/download/article-fff9c6ffebb8e2f6b5d2a073/article.mp3",
+      "bytes": 22081838,
+      "sha256": "2defceba422041e704bff6ad08b42920fc53ee07cecb64f0da7febc0a637a37d",
+      "destination": "releases/article-fff9c6ffebb8e2f6b5d2a073/article.mp3",
+      "metadata": {
+        "transcript.txt": "6be8b205fb4e84971e90442b58053487338f3465e98a7e503fa6716bec2091f1",
+        "rss-item.xml": "fde0ce4f67b6155ff86f7eee47fe9cc0d210a2d4e4813240cfaf925ca939f2af",
+        "published-package.json": "50a0808d2f24e6da02b0af35126db07e5523ac81c6ed857e42a9c952533a82a9"
+      }
+    }
+  ]
 }

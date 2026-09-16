@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <title>Pathfinder: Blake Hall (Colossus)</title>
+  <description>An audio reading of Pathfinder: Blake Hall from Colossus.</description>
+  <link>https://colossus.com/article/pathfinder-blake-hall/</link>
+  <pubDate>Tue, 15 Sep 2026 16:10:02 GMT</pubDate>
+  <guid isPermaLink="false">urn:article-reader:cacee32b34a1d0eaab566f4e8c51aceab9077ce8e707f0b45fb8df943811a166</guid>
+  <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-cacee32b34a1d0eaab566f4e/article.mp3" length="13080460" type="audio/mpeg" />
+  <itunes:author>Gabi</itunes:author>
+  <itunes:duration>00:13:37</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>

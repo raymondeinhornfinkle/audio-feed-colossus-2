@@ -1,0 +1,96 @@
+{
+  "article_id": "28520f1f0e241de8789d05c05c14ec12adc4433c1d2f973b2357d7db8a6f30e9",
+  "guid": "urn:article-reader:28520f1f0e241de8789d05c05c14ec12adc4433c1d2f973b2357d7db8a6f30e9",
+  "release_name": "article-28520f1f0e241de8789d05c0",
+  "article_title": "The Wretched Refuse",
+  "publication": "Colossus",
+  "title": "The Wretched Refuse (Colossus)",
+  "author": "Michael Moritz",
+  "source_url": "https://colossus.com/article/michael-moritz-memoir/",
+  "duration_seconds": 1959.21,
+  "file_size": 31348883,
+  "media_sha256": "9e16fc0793f6105d35495a5d49db51be707e008e5194414a855f4ed69d30583d",
+  "transcript_sha256": "542a445c5d0e25e4ccbfd14ceb2a7b8daffc47a14d1afb97375e16231e5d0928",
+  "extraction_report_sha256": "22c8dd4528a44a5f945923a02472683965d2065bc7ffa7413cd98d5613af0f35",
+  "audio_manifest_sha256": "4ec1161bfbd0de4135f908b4038ccc91f8b20993715dde6094104b5c8e70e7be",
+  "audio_run_sha256": "d51e0fb3165667c5f3ddda96d4781f086894bf544105386be767f3c669a10939",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 9,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "5eca75f0c9a06057765fe8d558c621cb2c9cfb71dbbd0f212a07855d8cbc2009",
+      "audio_sha256": "862ff8fb296993b4ccf01ffdc31304de475f0ffe671be70281866a3c18626570",
+      "pcm_frames": 4732440
+    },
+    {
+      "index": 2,
+      "text_sha256": "c182cca791511c82fb2a27405f1f204181ba9f1d9e7d222c2f22bf0dd5a2e0d0",
+      "audio_sha256": "d34593b71f59c05119a6c1acf0250ef0702186364a7516bcf18589a3ef13c8a8",
+      "pcm_frames": 4586040
+    },
+    {
+      "index": 3,
+      "text_sha256": "a88435d2e1585c67152fbace53bf7598e28662a7913648bc89d77d6fa7d81309",
+      "audio_sha256": "ffb019e6511ffe663fc82202e96f1beaf1d74516f54fbe918f937f63bad95b4a",
+      "pcm_frames": 5581680
+    },
+    {
+      "index": 4,
+      "text_sha256": "4e87c92d43bafe6f7befe94bd4742343e8b8c81e3b0f3519ebf7f96b12ece8d1",
+      "audio_sha256": "0b93c76c7edcc33c6af8d21f2a9705a613ec026b359afa373fd7633b44a0200f",
+      "pcm_frames": 4867680
+    },
+    {
+      "index": 5,
+      "text_sha256": "65c6c7e3717bc51658bdda7219691303b859268f7e76fec5f0c27a9fd6ec5e02",
+      "audio_sha256": "935d58e4775a133698c89ef68cccd0c714e46f21ee49191457b22d05e5b2ce15",
+      "pcm_frames": 4703880
+    },
+    {
+      "index": 6,
+      "text_sha256": "039c751a11f816f94c65e86a789a8502bc9b2372a48d1fce159c1566e72eaba9",
+      "audio_sha256": "45cf714c0d3b36ae34655cda0ca6b62ae3064547c53eee29187c5dd4c609dd13",
+      "pcm_frames": 5849040
+    },
+    {
+      "index": 7,
+      "text_sha256": "ed5752d1ab455763dae0cc0795c4d04cbba66222135e0ab12ffe463838383190",
+      "audio_sha256": "79a7ea25fc8a7baf28e3b04e39e162eb410d9ed9f5a8481c165b5f0c04c6d6fa",
+      "pcm_frames": 5611320
+    },
+    {
+      "index": 8,
+      "text_sha256": "1561a2493912ede161d398d1eb4ea58b6118b71f8d7ac39f45a656572dc853f9",
+      "audio_sha256": "115f173031cd4502a14202a7b897198ff468630bc69b5aac99ec9c7dce3379b4",
+      "pcm_frames": 5628240
+    },
+    {
+      "index": 9,
+      "text_sha256": "524909c08f2e67aeec86a20765c61bca266efd171d3772e0a9f868834785dfd7",
+      "audio_sha256": "29cefc06a1706f2c0da83fd4a8c4315ea83163f2d54cd76ad161cc559d6241ae",
+      "pcm_frames": 5460720
+    }
+  ],
+  "pcm_sha256": "a9b2b4dbf02f57eb5ba58b07adb814a419e2ca6fd25e036bf03d2a38caef6028",
+  "pcm_frames": 47021040,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-28520f1f0e241de8789d05c0/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-28520f1f0e241de8789d05c0/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-28520f1f0e241de8789d05c0/rss-item.xml",
+  "released_at": "2026-09-16T16:18:37.578213+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

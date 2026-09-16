@@ -1,0 +1,150 @@
+{
+  "article_id": "1a4aa5d91541c80645cca7f221fef10dfc9a060a7951219a25f6ef0f41d8962c",
+  "guid": "urn:article-reader:1a4aa5d91541c80645cca7f221fef10dfc9a060a7951219a25f6ef0f41d8962c",
+  "release_name": "article-1a4aa5d91541c80645cca7f2",
+  "article_title": "The Wu Tapes",
+  "publication": "Colossus",
+  "title": "The Wu Tapes (Colossus)",
+  "author": "Jeremy Stern",
+  "source_url": "https://colossus.com/article/scott-wu-tapes-cognition/",
+  "duration_seconds": 4087.78,
+  "file_size": 65406219,
+  "media_sha256": "e4c8da1a866482cbed03e1a8d89496094ad7f29acf56d80d634cfd0b43a4caf3",
+  "transcript_sha256": "151f5ba1a9aa9f0498a9fe941fe2cbf1e6c74600afc2fb6ae3cafb717dcb26b5",
+  "extraction_report_sha256": "5d9f955350de0024ff61a18efccf26d50e21d24b04b21db702072cc2a93ed18e",
+  "audio_manifest_sha256": "6bc9871bad26cf74520cf28425afb50767c63a7d3c4d112ea1c4ec25c82842e8",
+  "audio_run_sha256": "4abce54710715a05ce4f2555f6be5f6f2324c3ccd01c4a4020557d4b2f42862b",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 18,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "8f94ad6ff01a3893a42e6a56189815adac0bf92ba4d14e0eb19a2a437180a08d",
+      "audio_sha256": "d3da3ba2661fc74f366bccaf5118ff9203a03db90e526bc2ada4d1848f82d433",
+      "pcm_frames": 5460360
+    },
+    {
+      "index": 2,
+      "text_sha256": "48056d53b62154cc29ea8953a26fb8d106677779a0352f66e16ab4a4d7d04909",
+      "audio_sha256": "7917fa187d9fb6f8a0b2a415e9744af50ae45d41eaa5e5703db82151d4def4de",
+      "pcm_frames": 5599320
+    },
+    {
+      "index": 3,
+      "text_sha256": "ee739f8c5a4a8e04a7e5f7f1490bb65bac304735b5c088c8a2786433e5705a60",
+      "audio_sha256": "7da31383bd5ce68ed3887fdce12a962fe812408261f9fc5c4f8871a6a10e9821",
+      "pcm_frames": 5764200
+    },
+    {
+      "index": 4,
+      "text_sha256": "c0402936f846fa7ee52bf31d24064a4419e484e5b9adfa66fbcff13aa881a053",
+      "audio_sha256": "894ad089a8c8fad41abfbcf82fc8636f41e13ed635d8a0abb3ce5e2f520a426e",
+      "pcm_frames": 5791560
+    },
+    {
+      "index": 5,
+      "text_sha256": "acea12a816d91eebd0da628ad77c9884fcf24b2aefd76e0385db0818c7f970b8",
+      "audio_sha256": "18b90853b3a02f05d3e034f5547c597d4e3a6e5309be54e0c145de4c1b348d85",
+      "pcm_frames": 5674440
+    },
+    {
+      "index": 6,
+      "text_sha256": "1a26110132e1c9437a9f1b311c4c8d44579530cafe7cd87a063a7dd4686f9787",
+      "audio_sha256": "c4665022f71fe053a7c312127108d8565f5fe50130e11b7a0ceb9d3d63bfebef",
+      "pcm_frames": 5752200
+    },
+    {
+      "index": 7,
+      "text_sha256": "bff802fbedc7840734057e404e76d4897b6bce2f26089106cfd9085a5b9f8c18",
+      "audio_sha256": "0182e4516c2ef06f95dc828180172dee040deaa137c1bc9d67cbc39cda0df829",
+      "pcm_frames": 5389920
+    },
+    {
+      "index": 8,
+      "text_sha256": "de71149c42224d2006e845dbf776f791f195be8787042930c920b3aaec4f4c17",
+      "audio_sha256": "ae50126b938daa2fdfc8813f2b7e1e99dc875b577ef378eebfc3eb661d1796f3",
+      "pcm_frames": 5822040
+    },
+    {
+      "index": 9,
+      "text_sha256": "99a9c87b8f2860c7839e60eed52cc486bb2f5a7e413544d9a04f1c9f678a87d9",
+      "audio_sha256": "7b4d701b10e1aa310e580b31f26d60388b142cb4b2d46b3e8ac78145688e42ee",
+      "pcm_frames": 4616040
+    },
+    {
+      "index": 10,
+      "text_sha256": "537069d40782c46bd651ad65fb75a6432d171bca2fbed2a6dd9923186fb19dba",
+      "audio_sha256": "b7d8cf831e3357f8f381fd7d37479c581ec3f0b80c9c708b599ed11f1f867fb7",
+      "pcm_frames": 5564160
+    },
+    {
+      "index": 11,
+      "text_sha256": "4e967a347d373d10fe7fdac4155d2b8299a230a0e12b155bd9a91400f2e074db",
+      "audio_sha256": "1a0b27e643bd3562e0125c6ed6c5b9f67d38d017e12a7217574789a079020b50",
+      "pcm_frames": 5857800
+    },
+    {
+      "index": 12,
+      "text_sha256": "94a73d231d3ad80dad1cbf85605ef9fc7067c071469c0a9627d86960fdb5979c",
+      "audio_sha256": "1b5b42c5a5199d995449d7ac6b78c2df50e4525b1f864c3e2499a588a694c7d5",
+      "pcm_frames": 5459880
+    },
+    {
+      "index": 13,
+      "text_sha256": "0a78c4d4aad9dbae3db17146d919bdd6f90f13abd29a12fd42e7c7e9e413580d",
+      "audio_sha256": "c03fedf7c2af3a6b3a5f5c634f5c81d2fb437d4bac7166a2ea6a5a2aaa077229",
+      "pcm_frames": 4771560
+    },
+    {
+      "index": 14,
+      "text_sha256": "d755780baed8e459fa3c9f3142233ac58a67c2be1ad21efea780bf45023c317e",
+      "audio_sha256": "571dd59e2b9aa0aa6f0efaf47c20b06bdcd82c06057fc9f325679a8da27f80bd",
+      "pcm_frames": 5073360
+    },
+    {
+      "index": 15,
+      "text_sha256": "47f36b505f1904587f1ce6ece6e5a1ad9745929229f1a7c72fdede76a6c53920",
+      "audio_sha256": "d1bf5f31d5d3ddc18d744fc3cfb6275f0a90b44ef9389b8586a133de992faa57",
+      "pcm_frames": 5635200
+    },
+    {
+      "index": 16,
+      "text_sha256": "79ad69bf07a538acc25e8f49ef43f423a02811fb225bc2d5325ef88a300e4d6a",
+      "audio_sha256": "df61f49570cc54f94fe64aba04b15f0b2e095c85b24e95cc1e59a6fdba4f262d",
+      "pcm_frames": 5305080
+    },
+    {
+      "index": 17,
+      "text_sha256": "697f52751e320a2a976984886e251a436ae841d322a57abb30b783ed5ea17cc0",
+      "audio_sha256": "bae89c5aa094611f075dd030542165ad7fbe2861f9494764a94b0bc239d2e53c",
+      "pcm_frames": 5330160
+    },
+    {
+      "index": 18,
+      "text_sha256": "2504bc716379e31b0a2f6d356e4eaed330aaeeda98df9f35125c87d09cea8bd5",
+      "audio_sha256": "7333fefaf812a4ccc5fd1857d02acc2276b7461e97280e9b8888d1e9fe3d139a",
+      "pcm_frames": 5239440
+    }
+  ],
+  "pcm_sha256": "a2d1f520455d43f9c1f5795d28e4bfe6f46ba2b11340b1c95f7f77fee86414da",
+  "pcm_frames": 98106720,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-1a4aa5d91541c80645cca7f2/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-1a4aa5d91541c80645cca7f2/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-1a4aa5d91541c80645cca7f2/rss-item.xml",
+  "released_at": "2026-09-16T16:16:02.718051+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

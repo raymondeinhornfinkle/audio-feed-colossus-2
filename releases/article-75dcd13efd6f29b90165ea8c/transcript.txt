@@ -1,0 +1,499 @@
+The Last Human Edge
+
+In an age of machines, Henry Ellenbogen’s alpha comes from reading people, patterns, and the painful transition where certain companies either compound for life or die trying
+
+By Dom Cooke.
+
+Henry Ellenbogen called Reed Hastings on a Saturday morning in November 2011 to tell him Netflix might go bankrupt.
+
+The company had just executed one of the more spectacular self-immolations in corporate history. Four months earlier, CEO Hastings had announced that Netflix would split its DVD-by-mail and streaming services into separate offerings, raising prices by 60% after one of the worst recessions in memory. 800,000 subscribers canceled. The stock collapsed from $300 to $77. The media called it one of the worst blunders in tech history.
+
+Hastings reversed course in October, admitting the changes had been arrogant. Now, in the quiet of a weekend, with markets closed and no one watching, Ellenbogen was about to tell him it might not matter.
+
+“Hey, Reed, look, I could be reading this wrong,” Ellenbogen said. “But there is a scenario here where you have to raise money.”
+
+“What are you talking about, Henry?” Hastings said.
+
+Ellenbogen was 38. A year-and-a-half earlier, he’d been put in charge of the T. Rowe Price New Horizons fund. An $8 billion franchise, founded in 1960. It was the oldest, largest, and most successful small-cap growth fund in America. Over four million households owned part of it. Former managers had gone on to start The Carlyle Group and Silver Lake Partners. His mentor, Jack LaPorte, had run it for the previous 22 years. He beat the index by 4% a year.
+
+Fifty-one years of legacy, and Ellenbogen was about to bet $200 million on a company the market had left for dead.
+
+“I’m a huge admirer of what you’re doing,” he told Hastings. “I believe in what you’re trying, but it’s a tough financial transition.”
+
+In its shift to streaming, Netflix was moving to a fixed-cost model. In this new world, it had to write massive upfront checks to Discovery and Disney for content. It was also investing in original programming that hadn’t launched yet. The capital requirements were enormous. If subscribers kept canceling, the business would run out of cash.
+
+Hastings went quiet on the other end.
+
+“I have not thought about this as much as I should have,” he said finally. “Let’s talk tomorrow. You go through your scenario, we’ll go through ours.”
+
+On November 22, Netflix raised $400 million through a private investment. Ellenbogen led it, committing T. Rowe Price to half at $70 a share. The deal valued Netflix at $4.5 billion.
+
+When I met Ellenbogen 14 years later in Bethesda, Maryland, he wore a green checked shirt with a grey zip-up hoodie. He brought a Ziploc bag of mixed nuts and set it next to his iPad on the conference table between us.
+
+Over the nine years he ran New Horizons, he turned $8 billion into $40 billion. His investments returned 19% annually. He beat the index by 5% a year. His record prior to New Horizons was even better.
+
+Netflix is worth $450 billion today, 100 times what Ellenbogen paid. What he recognized in that Saturday call he’d seen before. Amazon when it was $10 billion. Priceline when it traded near bankruptcy. Over 25 years, he has learned to find small companies that can compound into large businesses. He identifies them early, but his real edge comes when they fall apart. Every exceptional business passes through at least one moment that looks identical to failure. Ellenbogen separates the companies dying from the ones being remade.
+
+He is media shy, a self-confessed introvert, but one part of his method is well known. In 2007, he began investing mutual fund capital in startups like Twitter, Workday, Grubhub, and Atlassian when everyone thought he was crazy and the regulations barely allowed it. At the helm of New Horizons, he invested in the private rounds of more successful IPOs than any other venture capital firm or mutual fund company.
+
+In 2019 he left T. Rowe Price to start his own firm, Durable Capital Partners. In Durable’s office, down the corridor from where we sat, past the lobby where three footballs are signed by his friend Bill Belichick, the evidence hangs on the wall. S1s from every startup he’s invested in that’s gone public. Over 50 of them. Figma is the most recent addition.
+
+What makes Ellenbogen different traces back to a cemetery in Pittsburgh. He was 12 years old when dozens of strangers approached him with tears in their eyes.
+
+His grandfather was buried in July 1985 at the West View Cemetery in Pittsburgh. Twelve-year-old Ellenbogen sat in the front row, his mother on one side, his two older sisters on the other. They lowered the coffin into Pennsylvania soil. The service ended. Then behind him, people he had never seen began to stand.
+
+They moved toward him one by one. Each took his hand in both of theirs. He felt the weight of what they needed to say travel through his forearm and sink into his chest.
+
+“Your grandfather saved our family,” they said. “We wouldn’t be here without him.”
+
+Ellenbogen looked at his mother. She glanced at his sisters. None of them knew what these strangers were talking about.
+
+The elder Henry Ellenbogen was born in Vienna in 1900. He left in 1919, one year after the Habsburg Empire collapsed, turning the once cosmopolitan capital of a vast monarchy into a landlocked republic cut off from its industrial regions and farmland. Trains carrying food no longer arrived. The currency was in free fall. Nationalist groups filled the cafés, blaming Jews for defeat. For a young man with ability, ambition, and a Jewish name, there was nothing left.
+
+He settled in Pittsburgh. By day he worked the floor at Kaufmann’s department store. At night he attended Duquesne Law School. In 1924 he passed the Pennsylvania Bar with the highest marks ever recorded. He opened a small practice representing people the system worked against. By 1932, as the Depression intensified, he was organizing marches alongside Father James R. Cox, walking to Washington with 20,000 unemployed men in the middle of winter, demanding public investment and unemployment relief.
+
+When President Hoover sent them home, unheard, Ellenbogen decided to run for Congress from Pittsburgh’s 33rd District. He was 32, nicknamed the “baby congressman,” and he arrived in Washington with the Roosevelt landslide. He co-sponsored the Wagner-Ellenbogen Housing Bill, which precipitated the 30-year mortgage. He pushed for Social Security. He won reelection twice. In 1938 he left Congress to become a judge on the Allegheny County Court of Common Pleas, where he served for nearly 40 years before mandatory retirement led him to Miami in 1977.
+
+All this his descendants knew.
+
+After his funeral, however, Ellenbogen’s mother found 44 boxes of letters, dated between 1934 and 1943, documenting a third career her father had never mentioned. The letters came from all corners of Europe. They were written by professors and merchants, doctors and craftsmen, families with children and elderly relatives. They begged in God’s name for the same thing: Help us escape before it’s too late.
+
+They came from strangers, mostly. People who’d heard that Congressman Ellenbogen might help. Without a secretary, he typed the responses himself, patiently explaining the Byzantine machinery of American immigration law, writing letters of sponsorship, pressing whatever contacts he could.
+
+As a foreign-born Jew in Congress when opponents called the New Deal the “Jew Deal,” he worked quietly. The letters started when Hitler began consolidating power. They continued through the Nuremberg Laws that stripped Jews of citizenship, through Kristallnacht, through the invasion of Poland, and arrived with increasing desperation as borders closed and families were rounded up until communication became impossible. Historians who later studied the letters documented 574 cases and estimated that Ellenbogen had saved thousands of lives.
+
+All without telling anyone who didn’t need to know.
+
+The day his grandfather died was the second time in the younger Ellenbogen’s early life that he’d lost a father figure. The first had disappeared in Madrid when his parents divorced. He was born in 1973 to a Spanish father and an American mother. At six, his mother took her three children and moved back to the United States.
+
+She settled in Miami close to her father and worked as a nursing home administrator, raising Ellenbogen and his sisters alone. This was Miami in the 1980s, a sleepy subtropical outpost beautiful for its weather and not much else. The adults Ellenbogen encountered were doctors and lawyers, people who owned small businesses, and his mother’s colleagues at the nursing home. What he learned about the world, he read in books and magazines. His favorites were National Geographic, Barron’s, and Sporting News. He read all of Peter Lynch’s books. Otherwise, there was just sun and water and the sense that important things happened elsewhere.
+
+Miami did have sports, however. This was the heyday of Dan Marino, who’d arrived with the Dolphins when Ellenbogen was 10, and a decade in which the University of Miami football team was dominant, winning four national championships. Ellenbogen watched with the forensic attention of a modern analytics department. His college roommate John Hill remembers being stunned by the depth of Ellenbogen’s analysis the first time they watched a game together.
+
+When asked about his intense fandom, he told me: “There are times when I’m just casual, but I love figuring out how things work. I mean truly understanding what’s behind a game, person, or company.”
+
+He left for Harvard at 17.
+
+Harvard in 1990 was a place of confident trajectories. The Cold War was ending, the economy was entering its longest peacetime expansion, and everyone but Ellenbogen seemed to know where they were headed. He chose to study organic chemistry and the history of technology, an unusual pairing that still prompts questions.
+
+“I’ll just learn about a bunch of things, develop some real skills, and figure out over time what it means,” he said.
+
+His real passion, aside from sports, was politics. In his freshman year, Ellenbogen started a study group called “You’re Never Too Young to Run.” That summer, he organized a Jewish political action conference in Miami. One of the speakers was Peter Deutsch, a Florida state representative who’d won his seat at 25. They hit it off.
+
+When Deutsch announced his bid for Congress in 1992, Ellenbogen offered his help. Halfway through the Florida Democratic primary, in late June, the candidate called 19-year-old Ellenbogen into his office.
+
+“I’m going to make a change,” Deutsch said. “What do you think about becoming campaign manager?”
+
+“Honestly, that’s the worst idea I’ve ever heard.” Ellenbogen replied.
+
+“I know. But I don’t have any other options.”
+
+Deutsch’s race was going nowhere, and both of them knew it. For the next two months, Ellenbogen worked 100-hour weeks for $1,500 dollars in total. He coordinated Deutsch’s pollster, direct-mail guy, and TV buyer, all of whom were experienced and had strong opinions. His job was to keep the adults talking. When the primary votes were counted at the beginning of September, Deutsch had won. The general election was a formality in a safe Democratic seat.
+
+After the victory, the congressman-elect asked his teenage manager to join him in Washington as his administrative assistant. Ellenbogen became the youngest person in the history of the United States House of Representatives to hold that title. In June 1993 The New York Times dubbed him “The Boy Wonder of Capitol Hill.”
+
+He’d raised $800,000 for Deutsch’s campaign, the article noted. He was now managing a million-dollar budget and supervising 17 people while his undergraduate degree sat on hold. The average age for his position was 41. After Ellenbogen’s appointment, several veteran administrative assistants quietly requested their title be changed to the grander-sounding chief of staff. When the reporter asked how he felt about holding a position most people spent their entire careers aiming for, Ellenbogen fidgeted and coughed nervously.
+
+“I did not love the media attention,” he told me, picking a walnut from the Ziploc bag between us.
+
+Every day on Capitol Hill, Ellenbogen had two breakfast meetings, one or two lunches, and dinner with different business people coming to lobby on various issues. Over the course of 12 months, he met more than 1,000 people.
+
+“I realized I was much more interested in how their business worked than their legislative issue,” he said. “And honestly, their story as to how they built their business and what challenges they had.”
+
+“Now, obviously, they didn’t really want to talk to me about this.”
+
+But some did. And it became clear he was in the wrong line of work.
+
+He returned to Harvard in fall 1993, finished his degree, then went back to Washington to help Deutsch build a fundraising operation that would survive the Republican Revolution, which gave the GOP control of the House for the first time in four decades. Deutsch would be reelected five times in a row through to 2005. By 1995, Ellenbogen was back in Cambridge for the joint JD/MBA program, still searching for the puzzle that would hold his attention.
+
+During graduate school, he spent a summer in Goldman Sachs’ risk arbitrage group. Risk arbitrage at Goldman in the 1990s was, as Charley Ellis would later write in his history of the firm, “known as the area where the very brightest people worked together.” The group was small, around 18 people, and fastidiously selective. Eric Mindich ran it. He had become the youngest partner in Goldman’s history at 27. In some years the desk generated as much as a fifth of the firm’s profits. It became a training ground for future finance stars.
+
+The group studied corporate events like mergers, spinoffs, and restructurings where uncertainty created spreads they thought they had an edge in measuring. When the market implied a 90% chance of an acquisition closing, while their analysis suggested 95%, they took the trade—long the target, short the acquirer, hedged where capital structure or options allowed. It required fluency across balance sheets, merger agreements, antitrust law, and bond math. And the discipline to act when the numbers tilted only slightly in their favor and nothing was certain.
+
+Of everything and everyone Ellenbogen experienced that summer, what stayed with him was a 20-second conversation. He’s forgotten which deal, but he remembers someone on the team calling a trade correctly, the stock moved as predicted, and at the end of the day, he walked over to ask about it.
+
+“Henry, you realize what we are here?” the trader said. “We’re insurance adjusters. We see a change, calculate the true cost, and wait for the price to correct.”
+
+Ellenbogen went back to his desk. The trading floor moved around him. He sat very still.
+
+He did not want to be an insurance adjuster.
+
+The work was interesting. The people were brilliant. But it was zero-sum. Someone wins, someone loses, money moves. What pulled at him was different. He kept thinking about the business owners he’d known in Florida and Washington, people trying to solve problems for customers, building something that could endure. It rhymed with what he’d learned studying chemistry. Living things grow awkwardly, then find balance, and if the conditions are right, if they serve the system they’re part of, they compound in ways no one could have predicted.
+
+Thomas Rowe Price Jr. died in 1983, but his philosophy was still working at the building on East Pratt Street in Baltimore when Ellenbogen came to interview. From the late 1930s through the 1960s, investors spoke of “the T. Rowe Price approach” almost as often as “a Ben Graham situation.” Graham, the father of value investing, bought cheap. Price, a heavy-set man with melancholy eyes, bought early. He believed companies passed through lifecycles, and the moment to own them came during their growth years when they’d proven they could survive but hadn’t yet conquered their market.
+
+He started his eponymous firm in 1937. In 1950 he launched one of the first mutual funds focused explicitly on growth. A decade after that came New Horizons, designed to capture small companies at emergence. Until the Russell 2000 Index launched 24 years later, it served as a barometer for how smaller companies were performing in America.
+
+Jack LaPorte joined T. Rowe Price in 1976 as an equity analyst. Eleven years later he became the fifth manager of New Horizons. In 1995, after the fund returned 55%, Morningstar named him Fund Manager of the Year. LaPorte’s office overlooked Camden Yards, where he owned a small stake in the Orioles. Cassette tapes of conference calls and research reports going back years cluttered his desk.
+
+What LaPorte had figured out, beyond what he’d gleaned about growth investing from Price, was that the person mattered as much as the model. He looked for operators who thought like owners, made their businesses incrementally better, and allocated capital as if it were their own money. He wasn’t trying to predict the next quarter. He was trying to identify the rare founder or CEO who could build a moat and defend it.
+
+When Ellenbogen interviewed in 2000, he listened to LaPorte describe a portfolio company. The language wasn’t about positions or risk or multiples. It was about a person solving a problem, and whether that person had the temperament to keep solving it when things got hard.
+
+Ellenbogen had spent his final year of school managing a small pool of money from friends in politics. He was trying to figure out what his own philosophy was. Sitting across from LaPorte, he realized he’d just found it.
+
+He reported for his first day at T. Rowe Price in 2001. Outside the windows of its steel and glass headquarters, Baltimore’s Inner Harbor stretched gray under fall clouds. Inside, the offices were quieter than they had been a year earlier.
+
+The dot-com bubble was bursting. The NASDAQ had already fallen 50% from its peak and would keep falling. Bill Stromberg, who would later run T. Rowe Price, gave Ellenbogen his first assignment. It would prove more valuable than either man imagined.
+
+“Henry, I want you to follow traditional media,” Stromberg said. “You have these great companies you’re going to follow: Disney, Comcast, Time Warner and Viacom. They’re really important to us. And then there’s these other companies that you can get to if you want.”
+
+Those other companies, the afterthoughts tacked onto his coverage list, included Yahoo, Amazon, and eBay. The traditional media giants commanded the weekdays; the internet companies got weekends and whatever hours remained. It was a hierarchy that reflected the conventional wisdom of 2001. The internet had been revealed as hype, and real money still flowed through cable boxes and movie theaters.
+
+Ellenbogen began work on a six-month study of media, an industry he knew little about. The goal was to compress 20 years of history into four A4 pages. The work led him to two conclusions. First, cable networks were the only exceptional businesses in media. Second, the closed system that made them exceptional was ending. The broadband infrastructure built during the telecom bubble was about to break open the windowing and scheduling that had protected media profits for decades.
+
+The riskiest investments were the supposedly durable media companies; the safest were the experiments being built on the new infrastructure. This recognition led him away from the corner offices of media conglomerates and toward businesses that barely qualified as going concerns in places no one wanted to visit.
+
+“I used to have lunch with Jeff Bezos twice a year,” Ellenbogen said. “I learned so much from those meetings. But no one would come with me.”
+
+The trip to Seattle took six hours from Baltimore. Amazon’s share price had fallen more than 90% from its bubble peak and despite Mary Meeker’s proclamation that it was one of the “Big Five” alongside Yahoo, eBay, Priceline.com and AOL, the company looked like what it was: an online bookshop, not the future of commerce.
+
+Ellenbogen’s experiences in Seattle changed everything that came after. The narrative everyone told about Amazon, and would keep telling until this day, was that Bezos ignored profitability while building for scale.
+
+But the real story was that Amazon nearly died when the bubble burst. If vendors had pulled financing, the company would have collapsed. Bezos rebuilt the management team after that ordeal and ran the retail business with obsessive operational discipline. The US business consistently generated 5–7% EBIT margins. Only after establishing a predictable cash stream did Bezos invest in new initiatives like AWS, A9, and the Fire Phone.
+
+“One of my favorite Amazon stories,” Ellenbogen told me, “was during the financial crisis.”
+
+The company was growing revenues by 30%, but Bezos wanted to prove that even during a downturn, the business could take share and increase margins. He asked Ellenbogen to come to Seattle and present. Ellenbogen spent an hour with the executive team, during which Bezos used his perspective to reinforce internal discipline. He wanted his team to understand that if the market saw them grow stronger through the crisis, they would earn credibility to pursue the next set of innovations on the other side.
+
+“I meet with entrepreneurs today and they’ll tell me their strategy is to be like Amazon, by which they mean they’re going to ignore profitability,” Ellenbogen said. “I’ll reply, ‘That’s interesting because that’s not the Amazon story.’”
+
+With Ellenbogen as lead analyst, T. Rowe Price became Amazon’s second-largest outside shareholder in early 2007. The business had a market capitalization of $10 billion.
+
+One of the more recent times the two men crossed paths was at a small conference before COVID. Ellenbogen had been asked to talk about demographic transitions and how they were influencing commerce. Twenty people sat in the audience. Bezos was one of them. Toward the end of his presentation, Amazon came up and Ellenbogen explained what he’d observed: that the story everyone believed was fiction. During lunch, Bezos found him.
+
+“Henry, that was exactly right,” Bezos said. “Just please don’t tell many people that story.”
+
+At the Goldman Sachs internet conference in Las Vegas in the early 2000s, Ellenbogen met with another business no one else wanted to visit. Priceline.com had set up a meeting room for one-on-ones, in which CFO Bob Mylod and CEO Jeff Boyd sat alone. Their stock had gone from a $23 billion market capitalization when Meeker included them among the internet’s elite to essentially zero. Arguably it had negative value when you accounted for the liabilities. Twenty analysts had covered the company during its peak. All had dropped coverage. Mylod still remembers Ellenbogen walking in. “The very first day I met Henry,” Mylod told me, “he said our story was interesting, especially because we were long gone and forgotten.”
+
+In 2003, with Priceline still worth less than $1 billion, a small position appeared in LaPorte’s New Horizons Fund. Mylod is now chairman of Booking Holdings, the $160 billion company that began life as Priceline.com. Ellenbogen continues to be an investor in the business.
+
+“He has one of the greatest minds I’ve ever seen for pattern recognition,” Mylod said. “He can look at two different businesses that have nothing to do with one another and see patterns. It gives him a level of conviction that’s really differentiated.”
+
+Once a year, Ellenbogen made another pilgrimage. This one to see John Malone. Malone had sold his cable business TCI to AT&T for $48 billion in 1999 and was building a new empire through Liberty Media. He had backed almost every entrepreneur who built the cable networks Ellenbogen had identified as exceptional. Malone taught him about capital allocation and “understanding the chessboard.”
+
+The sum of these early experiences, having correctly identified how technology was changing the world, would have profound consequences. Anouk Dey, who later joined Ellenbogen at T. Rowe Price in 2012, witnessed it first hand.
+
+“The best investors are the ones who collect patterns,” she said. “It takes a long time to build those patterns. The extent to which you can accelerate how quickly you build those patterns, the better investor you’ll be. By the time I met him, he’d amassed a set of patterns that no one else had.”
+
+On April 1, 2005, Ellenbogen became co-manager of the T. Rowe Price Media & Telecommunications Fund. The fund held just over $1 billion in assets.
+
+In 2007, he became sole portfolio manager. For three years, he beat the S&P 500 and his peers by more than 10% annually. Then the financial crisis arrived. Markets collapsed, credit froze, and the economy entered its worst contraction since the Depression. In 2008, the fund fell 46%. The S&P 500 only fell 37%.
+
+By the end of 2009, however, an investment made when Ellenbogen took over in 2005 had grown 67%. The S&P 500 returned 2%. The average media and telecommunications fund lost money. Lipper ranked his fund first out of 35 for the three years he was in sole command.
+
+In October 2009, T. Rowe Price asked him to take over New Horizons, the firm’s flagship small companies fund run by his mentor Jack LaPorte. The Media & Telecommunications portfolio he left behind revealed what he had learned over the past eight years. Amazon was the largest position, at 7%. The top holdings included Tencent, Apple, and Google. Priceline.com was there too. As was Liberty Media.
+
+But two names on the list stood apart: Ning and Slide. Both were private companies, which meant they didn’t belong in a mutual fund portfolio at all. Except they did, because Ellenbogen had been using his weekends again; this time to build something that wasn’t supposed to exist.
+
+The Investment Company Act of 1940 set a hard limit. Mutual funds could hold no more than 15% in illiquid assets, defined as anything that couldn’t be sold within a week at fair value. The rule existed to protect the millions of Americans who invested in mutual funds expecting they could withdraw their savings on any given morning. But the regulation assumed that companies went public early. You could buy them at IPO and ride their growth.
+
+T. Rowe Price had built its reputation on this for half a century. New Horizons specialized in it. But Ellenbogen saw the ground shifting.
+
+The shift began in 1981 when the 30-year Treasury yield peaked at 15%. What followed was four decades of relentless decline. In 1992, institutions could lend money to the US government and collect 8% annually with near-perfect safety. By 2005, that same position earned 4.5%. But pension funds, endowments, and insurers still needed an 8% return to cover retirement checks, fund university operations, and maintain spending rates. As the gap widened each year, their options narrowed: contribute more capital, slash benefits, or chase returns in riskier territory.
+
+By the early 2000s, the hunt was on. David Swensen at Yale had shown what patient capital could do. His endowment model with its heavy tilt to private equity and venture capital topped institutional league tables. Other institutions followed. Capital that once flowed reliably into public equities and bonds began seeking private markets instead.
+
+Startups found they no longer needed public markets to fund growth. Why deal with quarterly earnings calls? Why shoulder the regulatory burden? The capital was there and it came with fewer headaches and more patient terms.
+
+From 1976 through to 1997, the median age of a company going public was eight years. By the mid-2000s it had crept to 11, nearly 40% older. A significant part of a young company’s growth was happening before the IPO, and Ellenbogen was watching it from behind the velvet rope of the Investment Company Act.
+
+In May 2006, a 21-year-old analyst joined T. Rowe Price. Corey Shull had graduated from William & Mary with no investment experience. Instead, he’d visited Ecuador and Brussels for research projects and worked a State Department internship. Ellenbogen hired him for exactly those reasons; he knew nothing.
+
+“Henry jokes that it was two years before he was NPV positive with me,” Shull said. “I feel that’s a little harsh but maybe not far from the truth.”
+
+In 2007, Shull and Ellenbogen, working with LaPorte, came across a company called Bill Me Later. The business had created a way for consumers to buy products online and pay for them later. It was occupying ground later claimed by companies like Stripe and Affirm. The business had scale, a strong management team, and Amazon as a client with no competition in sight. There was a clear IPO story. The company simply wasn’t ready to go public yet.
+
+Ellenbogen, LaPorte, and Shull wondered: If the business has all the ingredients, how different is illiquidity if we’re paid for the risk? It led them to build what Shull called a “rogue effort” culminating in Ellenbogen presenting an investment case to T. Rowe Price’s equity steering committee. The deal was approved. LaPorte invested through New Horizons. And for a brief moment it looked like they might have found a way through the velvet rope.
+
+“To this day,” Ellenbogen says, “Bill Me Later would have been a great company.”
+
+The problem was, the business depended on the asset-backed securities (ABS) market. When a shopper used Bill Me Later at checkout, a partner bank made the loan and paid the merchant. Bill Me Later bought that loan from the bank, bundled thousands of similar loans together, and sold them to investors in the ABS market. The cash from those sales funded the next wave of loans.
+
+When Ellenbogen called during the financial crisis in 2008, CEO Gary Marino delivered news that the ABS market had seized up. They’d been financing at 97 cents on the dollar. Now they might get 70 cents.
+
+“We’re about to grow 100%,” Moreno said.
+
+Ellenbogen ran the math. They were bankrupt.
+
+“Yeah,” Moreno said. “You ran the right math, Henry.”
+
+The company was sold to eBay for $945 million in late 2008. “We didn’t lose a lot of money,” Ellenbogen told me.
+
+In 2007, they invested in two other private companies. Max Levchin, who had co-founded PayPal, started a company called Slide that allowed users to send, among other things, SuperPokes across Facebook and MySpace. Marc Andreessen, the Netscape founder, launched Ning, which provided a platform for people to create their own niche social networks. Allen & Company, the New York investment bank, orchestrated both deals.
+
+Neither worked as investments. Slide sold to Google two years later at essentially breakeven for T. Rowe Price. Ning pivoted multiple times and never achieved the scale its backers envisioned. Ellenbogen would joke for years that he was the only investor in Max Levchin never to make money. His investment in Affirm would change that.
+
+Ellenbogen and Shull’s first foray into private investing clarified where their advantage lay. They were good at talent-spotting and security analysis, which meant they should be investing in later-stage private businesses that were generating numbers you could actually measure.
+
+In 2009, however, Ellenbogen bought a piece of a private company that had no clear CEO, no business model, 13 employees, and a billion-dollar valuation. The business was Twitter, and everyone thought he was insane. It was not how sensible people allocated capital entrusted to them by teachers and firefighters and retirees who expected their money to be there when they needed it.
+
+“It’s still one of the riskiest investments I’ve ever made,” Ellenbogen said.
+
+The business had created a platform where anyone could broadcast messages to the world in bursts of 140 characters. People were using it to share what they had for breakfast or to complain about airlines. But Ellenbogen had written his senior thesis on how technology changes politics, and in the fledgling bird app, he saw another example of how information would flow around centralized control.
+
+It didn’t take long for his visions to play out. In 2010, protesters across Tunisia and Egypt used Twitter to coordinate demonstrations when governments shut down newspapers and blocked television stations. By the time the Arab Spring swept across the Middle East in 2011, Twitter had become the infrastructure for political movements. It was fomenting revolutions, despite hanging together by a thread.
+
+He remembers a call from Twitter’s CFO during the 2010 FIFA World Cup. Ali Rowghani gave Ellenbogen an update on operations.
+
+“Henry, we’re rooting for Brazil not to score goals,” Rowghani said.
+
+“What?” Ellenbogen replied.
+
+“We have so many users in Brazil. Every time they score, our service crashes,” Rowghani answered.
+
+When he backed Twitter, only five other investors were interested. Six years later, in 2015, when Bloomberg called him “The Man Who Taught Mutual Funds How to Invest in Startups,” he’d earned more than a 1,000% return from the position.
+
+I used to have lunch with Jeff Bezos twice a year. I learned so much from those meetings. But no one would come with me.
+
+–Henry Ellenbogen
+
+Workday came in 2011, and this time, it fit Ellenbogen and Shull’s developing framework. They had met the company when it was doing $100 million in revenue, growing 80%, valued at $2 billion. Respected investors thought the valuation was crazy but Ellenbogen and Shull saw two founders in Aneel Bhusri and Dave Duffield who’d already built a business in this space, having pioneered HR systems at PeopleSoft. They understood how the industry worked and they could see how cloud infrastructure would make everything better.
+
+“We got the technology right with Twitter,” Ellenbogen later said. “With Workday, we got the business model and the people.”
+
+If those two bets had failed, T. Rowe Price would have shut down the program. Instead, Ellenbogen got what he called “training wheels” to systematically deploy mutual fund capital into late-stage startups. By 2016, a Morningstar study found that only 3.6% of US equity funds held any private equity. Ellenbogen’s portfolio held more private businesses than any other mutual fund.
+
+Through the end of that year, the results from their private investing program would surprise everyone inside 100 East Pratt Street. Ellenbogen had deployed $1.2 billion of initial capital across 63 investments. The portfolio of private companies was generating returns of 35% annually. The Russell 2000 Growth Index, over the same period, returned 8%.
+
+Between October 2009 and March 2010, Ellenbogen had something he’d rarely experienced in his adult life. Time off. He’d stepped down from managing the media and telecommunication fund. New Horizons wasn’t his yet. He came to the office every day but markets no longer demanded his constant attention, so he did what ambitious men do when they find themselves briefly unoccupied.
+
+He learned to play golf.
+
+Every morning at first light, he walked the course alone with a caddy. “I was so bad I didn’t want to bother anyone else,” he told me. He bought balls by the dozen from Costco, hemorrhaging them into water hazards and woods.
+
+Between rounds, he read.
+
+T. Rowe Price had given him the archives of all 50 New Horizons shareholder letters. Ellenbogen was looking for patterns when he made a startling discovery.
+
+Across 50 years and thousands of investments, across multiple market cycles and different managers with different styles, only 20 stocks had mattered. Every cent the fund had made came from 20 companies identified early and held long enough to turn modest positions into transformative outcomes. The rest amounted to nothing.
+
+In early 2010, Jack LaPorte hosted a dinner at Caves Valley Golf Club, set among the horse farms north of Baltimore. It was the 50th anniversary of New Horizons, and LaPorte had gathered every living investor who had worked on the small companies fund. Around the table sat the founders of Silver Lake Partners and The Carlyle Group. Only Thomas Rowe Price Jr. was absent.
+
+After dinner that night, Curran ‘Cub’ Harvey told a story. Harvey had managed the fund for a decade starting in 1969. In the summer of 1970, he met Sam Walton on Walmart’s IPO roadshow. The company was tiny then, a regional retailer based in Bentonville, Arkansas, with hopes of transitioning into a discount merchandiser. Harvey bought a substantial stake for New Horizons at IPO. For the decade he managed the fund, he watched Walmart grow from 33 stores to 276. The position compounded at 36% annually. By 1982, Walton’s shop was one of the fund’s three largest holdings.
+
+Harvey’s investment illustrated what Ellenbogen had discovered in the archives. But his research also revealed that LaPorte, his investing mentor and idol, had sold Harvey’s stake in Walmart. Had LaPorte kept it and let it compound, that single position would have been worth more than the entire $8 billion Ellenbogen was inheriting. In other words, every good decision made by this procession of legendary investors over the course of half a century could not make up for the one cataclysmic mistake of selling Walmart prematurely.
+
+It led Ellenbogen to study the history of US equity markets, seeing if the pattern held at the scale of capitalism itself. The question he wanted to answer was simple: If there are roughly 4,000 public stocks trading at any given time, how many of them are Walmart great?
+
+The data told him that in any 10-year period, about 40 stocks compound wealth at 20% a year. 40 out of 4,000. One percent of public companies turn out to be great, and roughly 80% of those started as small companies, the exact universe New Horizons fished in. The entire game, he realized, was finding these small businesses early and holding on.
+
+On March 1, 2010, Ellenbogen took over the New Horizons Fund.
+
+The fund was as close to a franchise as you get in finance. 10% of the investing public held shares, often buried inside their retirement funds. People on flights who sat next to him recognized the fund when conversation happened, which Ellenbogen tried his best to avoid by quickly opening a book. But as a sports fan, the franchise metaphor mattered to him. This was the Yankees or Lakers or Real Madrid of small-cap growth investing, and it was his time to prove he could do it on the biggest stage.
+
+In his first year managing New Horizons, Ellenbogen made Rackspace Hosting one of his largest positions. The company ran data centers out of San Antonio, keeping other companies’ servers online. Through 2010 and 2011, as corporate IT moved to the cloud, it was one of the fund’s strongest performers. Then in 2012, Rackspace tried to become a public cloud provider, competing directly with Amazon and Microsoft.
+
+Amazon cut prices seven times in 2013. Rackspace couldn’t keep up. When the company reported first quarter earnings that May, the stock fell 25% in a day. By year’s end it had halved. T. Rowe Price funds were the fourth-largest shareholder. New Horizons owned 2.3%. Ellenbogen watched the quarterly numbers through 2013 and 2014, looking for signs the transition would work. It never did.
+
+The Netflix crisis arrived in the summer of 2011.
+
+“People think that was a great investment,” Ellenbogen said. “It didn’t look so good in 2012 when the stock was $53.”
+
+By the end of 2013, Netflix had grown five-fold. It was New Horizons’ best performing stock for that year. Rackspace was the worst. One transition worked. One didn’t. Ellenbogen didn’t fully understand why until he met Anouk Dey, who knew nothing about investing.
+
+In summer 2012, Dey walked into T. Rowe Price’s headquarters hoping to meet Ellenbogen. She was 26 and had just finished her master’s at the University of Oxford studying international relations. Before that, she’d spent summers in Jordan working with Iraqi refugees, running an NGO to bring sports programs to displaced children. Growing up in Canada, she’d been a competitive ski racer.
+
+Her plan was to work for Canada’s Department of Foreign Affairs. Then Twitter exploded during the Arab Spring, and she watched non-state actors gain power that rivaled governments. She tried to get a job at Twitter. When that failed, a mentor told her about Ellenbogen who’d backed the company early.
+
+Dey took the train to Baltimore.
+
+“I didn’t know much at that point in my life,” she said. “But the one thing I knew is if you meet someone extraordinary, get on the rocket ship.”
+
+She talked to Ellenbogen about Twitter and Pinterest. He knew more about both than she did, which surprised her. She asked if she could work for him. He hired her that August and immediately made a deal with Yen Liow, who was teaching a class at Columbia Business School on the type of businesses he had become obsessed with: compounders.
+
+“I’ll co-teach the class,” Ellenbogen said. “If this woman can take it.”
+
+Dey spent fall 2012 commuting to Columbia in New York weekly, writing case studies on Panera Bread and Whole Foods. Back in Baltimore, she attached herself to Ellenbogen.
+
+“I just followed him everywhere,” she said. “Every meeting, every company visit, every trip.”
+
+Ellenbogen gave Dey the same assignment he’d given himself years earlier when he’d joined T. Rowe Price as a media analyst: Study the history. Her assignment was to learn everything there was to know about compounders—companies that sustained 20% annual growth for a decade. In 2013, she presented what she’d found. The framework became so central to their method that they would later defend it as proprietary, issuing warnings to a writer who used the terminology.
+
+First, every compounder showed increasing returns on invested capital. They got better as they got bigger, faced less competition as they gained scale, and could reinvest profits at persistently high rates of return. These weren’t just explosive businesses like Twitter or Netflix. They included less glamorous names like O’Reilly Automotive, RBC Bearings, and Vail Resorts.
+
+When Rob Katz took over Vail, every ski resort competed locally. He cut the price of a season pass by two-thirds and began buying resorts across Colorado, Tahoe, Whistler, and Salt Lake City. Skiing became a subscription business. Customers prepaid for the season, shifting weather risk from the mountain to the skier. Each acquisition made the network more valuable, and returns on capital climbed with scale.
+
+Second, these rare businesses were intensely volatile. Over the ten years they compounded at 20%, in one of those years they fell 62%. Often this wasn’t during a market crash when most stocks were down; it was during a transition when the business tried to become something bigger.
+
+Ellenbogen had just lived through that number twice with Rackspace and Netflix. Seeing it quantified made him realize it wasn’t bad luck. It was structural. Every company that became a compounder got punished mid-journey. The trick was in distinguishing between a company failing and a company transitioning, then having the conviction to hold through the difference.
+
+He started thinking of a company’s journey in two acts. Act 1 meant a company had demonstrated product-market fit, identified a large addressable market, and proved its unit economics worked. Act 2 was the leap: a significant new product, a major new market, becoming something fundamentally larger than the original business.
+
+Netflix’s Act 1 was DVD-by-mail. Act 2 was streaming. Between them came 800,000 canceled subscriptions and a stock that fell 75%. That brutal transition was where companies became compounders or disappeared trying.
+
+Now he had the language, he could build a process.
+
+He split his fund between Act 1 and Act 2 companies. Two-thirds of New Horizons would invest in what he called durable growth businesses like Vail and RBC Bearings that were already in Act 2. The other third would target emerging growth companies still in Act 1, showing characteristics that suggested they could make the leap.
+
+But the real insight was what happened after the initial investment. Given how rare compounders were and how hard it was to separate the Netflixes from the Rackspaces before they went through a transition, Ellenbogen would cast a wide net at the start. Then he would watch, and if the company proved itself during the transition, he would buy more. Sometimes that meant buying at lower prices during volatility. Often it meant buying as the stock rose.
+
+Outperformance would come from holdings that developed over time, not from new positions. He would prune the portfolio as companies failed to make the leap, expecting to own significantly fewer businesses over the longer term.
+
+The structure of the portfolio would help with this. Knowing what makes a mature company durable would help evaluate whether an early-stage company could scale. Younger companies, meanwhile, would often reveal threats to existing winners. For example, when his investment in Endurance International, a web hosting company, began losing money, Ellenbogen studied the private companies causing the disruption. That led him to Wix and Shopify. It’s why no one on his team invests only in public or private companies. Everyone covers both.
+
+Then he systematized the process by tracking his portfolio through vintage analysis, the same way sports teams evaluate draft classes. Each year’s new investments became a vintage. As inflection points arrived, position sizes adjusted accordingly.
+
+During one of our meetings, Ellenbogen handed me a bright-green paperback: Fortune’s Formula by William Poundstone. “It’s the best book I’ve ever read about risk management,” he said. The book traces how Claude Shannon and John Kelly, two Bell Labs scientists, along with MIT mathematician Ed Thorp, deciphered the optimal way to size bets when you have an edge. Bet too small and you leave money on the table. Bet too large and a bad run wipes you out. The Kelly Criterion, as it’s known, tells you how much to risk based on your probability of being right.
+
+Vintage analysis was Ellenbogen’s version—a system for continuously recalculating the optimal bet. The 2011 vintage demonstrated how it worked. He had added 75 companies that year. By 2013, only 41 remained. The vintage returned 13% in 2011; 3% in 2012. Then in 2013, as Netflix proved the streaming transition could work, the position doubled in size, and the vintage returned 209%.
+
+A decade later, Ellenbogen takes this process even more seriously. Every three months, he spends six hours with his team going through individual performance indicators on every business in the portfolio. Most quarters, there is no action needed.
+
+Jay Hennick, CEO of Colliers and founder of FirstService, two of Ellenbogen’s portfolio companies said: “They consider themselves partners to our company. They want a personal update each quarter. If we make a large acquisition or have a quarter below their expectations, they’ll be on the phone to our CFO.”
+
+New Horizons became the world’s best performing mutual fund with more than $10 billion in assets in 2013. Ellenbogen had delivered a 49% return. Over his three years managing the fund, he had beaten 99% of his peers. Assets swelled to $15.8 billion. T. Rowe Price closed the fund to new investors for only the fourth time in its 53-year history. That same year, Jack LaPorte died.
+
+In spite of his success, Ellenbogen was growing concerned.
+
+“One of the things that makes Henry unique,” Shull told me, “is that he doesn’t just focus on outcomes. What he really cares about are the people we invest in, the underwriting case, the process around it, and then we view everything in probabilities.”
+
+By the mid-2010s, active fund management—the type Ellenbogen practiced—looked threatened. Low-cost index funds had been quietly eating market share for years. Multi-manager platforms like Millennium and Citadel were building factories where hundreds of portfolio managers competed using systematic strategies and armies of analysts. Quant shops like Two Sigma and Renaissance Technologies were posting returns that defied physics. Their algorithms could process millions of data points and execute trades in microseconds.
+
+The question facing every traditional investor: Did humans still have an edge?
+
+Ellenbogen spent roughly 100 days each year on the road meeting executives and visiting companies. When he wanted to understand an issue, he went to the source. He met with a principal at Two Sigma in New York, which managed over $30 billion and ranked among the world’s best hedge funds. The conversation clarified the battle lines. Investing was splitting into two camps: robots and humans.
+
+The robots owned pattern recognition, speed, emotionless execution at scale. But they couldn’t understand entrepreneurs the way people could. They couldn’t build the trust that lets you call a CEO on a Saturday and tell him he might run out of cash, then structure a PIPE to save the company. They couldn’t judge which companies would navigate technological disruption and which would be destroyed by it. They certainly couldn’t understand why a CEO selling shares at $70 after buying them back at $220 months earlier—as Reed Hastings and Netflix had done—would be a positive signal. That required an amygdala.
+
+“I realized there were real limitations to what the robots could do,” Ellenbogen said.
+
+Back at T. Rowe Price, he organized an internal teaching session. He called it “man versus machine.” The message was direct. The New Horizons Fund would double down on its edges.
+
+“We’re going to get more focused on what we do on the people side of our business,” he told his team. “And we’re going to get more focused on where change impacts both our early-stage growth companies and our durable growth companies.”
+
+By 2014, the training wheels were off his private investing program. New Horizons was backing five to seven private businesses per year, and Ellenbogen knew each would face the same test: the transition from Act 1 to Act 2. He developed a process to increase the odds of his companies surviving it.
+
+One approach was backing entrepreneurs who already knew what it took to build a scaled business. Act 2 entrepreneurs, like PayPal’s Max Levchin. When Google had acquired his second company Slide in 2010, Levchin was deflated. Ellenbogen told him not to give up on himself. Two years later, Levchin started Affirm, the buy-now-pay-later business. It was too young for New Horizons to invest, but Ellenbogen stayed close. They talked before every round Levchin raised over eight years. In 2020, when COVID hit and Affirm needed capital, Ellenbogen led its last fundraising round as a private business.
+
+For founders without prior experience, Ellenbogen began deploying his network. The model crystallized around a simple insight. Executives who had already built large public companies often made the best board members for small private companies trying to become large public companies. It wasn’t just about strategic advice, though that mattered. It was about credibility. When a CEO who had scaled a business from startup to billions in revenue told a management team that certain systems and processes were essential, people listened in a way they didn’t when the same advice came from investors who had never operated anything.
+
+Jeff Boyd had been CEO of Priceline during its transformation from failed dot-com darling into Booking Holdings, one of the most successful travel companies in the world. When Clear, the biometric security company, needed help thinking about how to scale beyond airports, Ellenbogen made an introduction. Boyd joined the board.
+
+Mylod joined the boards of Redfin and Dropbox. Darrell Cavens, former CEO of Zulily, joined Deliveroo. The network became self-reinforcing.
+
+Years earlier, New Horizons had become LinkedIn’s largest outside investor. Ellenbogen and Jeff Weiner, the company’s CEO, had grown close. In December 2019, Weiner brought Shull to dinner with Dylan Field, Figma’s founder. That conversation led to an investment in Figma’s $2 billion round the following year. When Figma was set to go public, Ellenbogen connected Field with Luis von Ahn from Duolingo, who had recently navigated his own IPO. Von Ahn joined Figma’s board in 2025.
+
+“He’s extremely well connected,” one source said, declining to be named. “He’s also got a very strong relationship with the Allen & Company folks. That network is unrivaled and he’s right in the middle of it at all times.”
+
+By the late 2010s, Ellenbogen had developed a reputation as one of the best people to take a private company public. Most investors treated IPOs as exits. Ellenbogen did the opposite. The event was a milestone in the compounding journey. He often bought more at IPO.
+
+Rick Buhrman spent years at Notre Dame’s endowment, meeting the world’s best investors. “I can’t tell you how abnormal he is,” Buhrman told me. “He’s the guy every operator wants in their corner but he’s completely resistant to joining boards or any formal structures.”
+
+Then Buhrman said, “Henry is the most influential, hands-off investor I’ve ever met.”
+
+I thought of his grandfather.
+
+When Ellenbogen took over the New Horizons fund in 2010, it was ranked 32nd out of 217 funds over the prior decade. By the end of 2018, it stood first out of 228. He had beaten the S&P 500, the Russell 2000 Growth benchmark, and his peers by over 5% a year, despite managing the largest pool of small-cap money in the country. The fund annualized at 19.2%.
+
+Over 90% of his alpha was driven by 20 compounders. All of it came from companies he’d owned for more than four years. He’d delivered on his thesis. Now it was time for his second act.
+
+Ellenbogen is effusive in his praise of T. Rowe Price but the machine had its own logic. Analysts like Shull served many masters. He reported to 15 or 30 portfolio managers depending on how you counted it. “Henry was my largest audience,” Shull said, “but there were a lot of mouths to feed.” Private investing, even when it drove meaningful outperformance, would always be a small sliver of what a firm managing over a trillion dollars cared about.
+
+Ellenbogen wanted to see what became possible when everything pointed in the same direction, and importantly, when you didn’t have to make the structural compromises that came with serving different constituencies pursuing different strategies.
+
+His Netflix investment haunted him as an example of what those compromises cost. When he called Hastings in 2011, the company was worth $4.5 billion. Seven years later, its market value stood at $120 billion. The $200 million T. Rowe Price invested could have been worth over $5 billion. Instead, fund regulations and position limits meant Ellenbogen had to keep trimming. He owned a tenth of what he once had, selling into one of the great compounding stories of the decade not because the thesis changed, but because the structure demanded it.
+
+It was his Walmart.
+
+When Ellenbogen began a listening tour to learn what his new firm should look like, David Rubenstein had a simple message for him: You’re too old.
+
+“I’ve studied entrepreneurs,” The Carlyle Group co-founder said over breakfast. “Almost none of them start anything in their 40s.”
+
+Rubenstein delivered this warmly. Ellenbogen found it surprisingly motivating. But the whole exchange seemed to have the contours of a founder trying to recruit him into his own investing firm, which was based nearby in Washington.
+
+Rubenstein wasn’t alone in his assessment. Another investor, equally prominent but less public, put a finer point on it: Ellenbogen was 10 years too old for this particular adventure. It turned out to be the question hanging in every conversation.
+
+Ellenbogen was 47. He knew people who’d started older. Dave Duffield was 64 when he founded Workday with Aneel Bhusri. Jay Hennick, one of his favorite entrepreneurs, was in his 50s when he spun Colliers out of FirstService. These were Act 2 entrepreneurs. People who’d built something significant and chose to start over, in spite of their age.
+
+He continued his tour. He visited Herb Allen, whose family had run Allen & Company for three generations; Will Danoff, who’d been running Fidelity’s Contrafund for over 35 years; Mitch Rales, his mentor; Stanley Druckenmiller and others. All of them had built something that lasted.
+
+On February 14, 2019, he announced that he was leaving T. Rowe Price. By then he’d already filed the paperwork. Initially, he planned to call his firm Act 2, LLC. He settled on Durable Capital Partners.
+
+Four people from T. Rowe Price came with him: Dey, Shull, Barry Henderson, an associate portfolio manager, and Michael Blandino, who’d been head of US Equity Trading. The fifth founding partner was John Hill, his college friend.
+
+Everything in Durable’s Bethesda office points back to something Ellenbogen has learned or someone he believes in. The firm’s logo derives from the periodic table. Each conference room carries an element’s name. His personal art hangs on the walls. The furniture comes from Restoration Hardware, a long-held investment run by Gary Friedman, a friend of his.
+
+Ellenbogen with Dey and Shull in Durable’s office. Photo by Kelvin Bulluck
+
+By the end of 2019, Ellenbogen and his founding team had raised six billion dollars. The Financial Times described it as “one of the largest fund raises on record.” In early 2020, Durable was ready to invest. Ellenbogen doesn’t consider himself a market timer, but valuations looked stretched. He deployed around half to begin with. The rest sat in escrow, waiting.
+
+Then COVID hit.
+
+On March 13, Redfin’s CEO Glenn Kelman was riding his bicycle toward an empty office when his phone rang. Ellenbogen had first invested in the digital real estate broker in 2013, before the company went public. He asked about life in Seattle and how many people were in the aisles at Safeway. Kelman remembers thinking conversations with Ellenbogen were often like this—seemingly idle, then pointed.
+
+Redfin’s stock had fallen from $32 to around $10. Ellenbogen asked if they needed money. He could buy stock on the open market, but investors would get his money, not Redfin.
+
+Kelman said nothing.
+
+“Tell me,” Ellenbogen continued. “When people start touring homes via an iPhone, won’t a lot of them decide this is just a better way to see houses? And if buying and selling homes mostly goes virtual, how will other brokerages compete with you?”
+
+“I don’t know, Henry,” Kelman said.
+
+“Well I do. The world is changing in your favor,” Ellenbogen replied.
+
+Kelman wheeled his bike toward the garage entrance and called Chris Nielsen, his CFO. Nielsen was quiet but firm. They had to consider it. “If Redfin is slow to recover,” Nielsen said, “we’ll need every penny.”
+
+Bob Mylod, Redfin’s chairman, got on a call with Ellenbogen and Kelman. Ellenbogen told them he didn’t think home sales would die forever. He wanted to help. But there was enormous uncertainty and he might be the only person writing checks into this chaos. He wanted a preferred position.
+
+“Henry’s very good at structuring,” Mylod said.
+
+Redfin’s board approved the deal. In late March, Durable invested $110 million. According to public reports, the investment was $70 million in common stock and $40 million in convertible preferred stock with a 5.5% annual dividend.
+
+One month later, Ellenbogen called Scott Patterson, CEO of FirstService. The company had spotted an acquisition opportunity, but raising capital when the world seemed to be ending was difficult.
+
+“We’ll do a quick PIPE if you want,” Ellenbogen told him.
+
+Patterson said he’d need to talk to Jay Hennick, the chairman and largest shareholder. They talked it through. Durable invested $150 million.
+
+“In retrospect it was a mistake,” Hennick told me. “Taking in capital is always a mistake. But that was the sentiment at the time and it’s an example of Henry being on the mark. It pays to stay close to companies as shareholders.”
+
+Durable is a private investment fund, so unlike mutual funds, it doesn’t publicly report its returns. But sources familiar with the firm’s performance told me Ellenbogen outperformed his benchmark by double-digit percentages in 2020. According to US Securities and Exchange Commission filings, his fund was managing $13.8 billion by year-end.
+
+Everything at Durable, from the people to the technology to the fund structure, had been built to serve the strategy Ellenbogen had spent the previous 20 years refining. In 2021, Affirm went public. Toast went public. Duolingo went public. Durable’s assets hit $18 billion per public filings. He’d never felt so young.
+
+The Federal Reserve raised interest rates in March 2022. Then May. Then June. By year’s end, they’d done it seven times. The price of money, which had been effectively free for over a decade, reset violently. Companies that had been valued on distant cash flows suddenly faced a different calculus. The average loss-making company in the Russell 2000 Growth index fell over 70%. Ellenbogen went from some of the best performance of his career to the worst, people close to him said.
+
+“We never felt money was going to be free forever,” he said. “But we had made some simplifying assumptions after a decade of free money.”
+
+Ellenbogen is not reactive. He trades his portfolio as little as possible. But by the beginning of 2022, it became clear this wasn’t a temporary dislocation. The regime had changed. He went back to his study on compounders. In a normal decade, about 40 stocks compound wealth at 20% a year. In the free money era, 120 stocks had achieved it. There were imposters in his portfolio.
+
+“He realized we needed to do a full re-underwriting of the portfolio,” Hill said. “But it wasn’t ‘everyone in the office, burn the midnight oil, I need an answer by tomorrow.’ He wanted to get to the right answers and do it in a manner consistent with our investment process.”
+
+Durable opened the fund to new money and Ellenbogen went to work. Over the course of 2022, fund filings reveal turnover at a multiple of his normal pace. Then he hit the road. This time for a speaking tour.
+
+“I barely saw Henry in the back half of that year,” Hill said.
+
+One of his first stops was New York, where he had dinner with Luis von Ahn, founder of language learning app Duolingo, and its CFO.
+
+Ellenbogen first met von Ahn on a Zoom call in 2020. When the meeting ended, he phoned his colleague Julio Novo to ask what he thought. Novo told him it was an impressive business, the product was great, and they were leading the market. Ellenbogen stopped him.
+
+“He reminds me of Tobi from Shopify,” Ellenbogen said. “We’re clearing our schedule. Whenever Luis will spend time with us, we’re going.”
+
+The next time they met was in Duolingo’s office in Pittsburgh. It was COVID. No one else was there. Von Ahn had been told by multiple people that if you were a private company looking to go public, talk to Henry Ellenbogen. Beyond that, he didn’t know what to expect.
+
+Ellenbogen talked about patterns. Most successful companies have certain things in common, he said. Duolingo had some of them. Others they could start building. Shopify came up. So did LinkedIn.
+
+“He just seemed like a savant at identifying how companies work,” von Ahn told me.
+
+In November 2020, Durable led the company’s last private round, valuing Duolingo at $2.4 billion. In July 2021, the company went public. It closed up 36% on the first day, giving the business a market capitalization of $5 billion. Ellenbogen bought more shares at IPO. A few months later, the stock began to fall. From a high of around $200 it bottomed near $70 in 2022. As the shares unwound he took von Ahn and Duolingo’s CFO, Matt Skaruppa, out to dinner in New York.
+
+Ellenbogen explained what had changed. For over a decade, companies could grow without worrying about profitability. That world was gone. The market would now reward companies that could balance growth, profitability, and innovation. Von Ahn and Skaruppa had to prove they could make money. He told them the real story of Amazon.
+
+The Duolingo executives listened. When Ellenbogen had first invested, von Ahn told him: “I’m going to be a first-time CEO. My sense is you’re going to see things based on your experience that I haven’t seen yet.” This was one of those moments.
+
+“It was very good advice,” von Ahn told me. “It probably made our company worth three times more because we increased profitability and the market rewarded it.”
+
+Ellenbogen’s dinner with Duolingo was one of many. Affirm’s Levchin remembers him coming around Thanksgiving.
+
+“Henry said: ‘This is the moment you either transition into one of these compounders or you don’t,’” Levchin said. “He used the example of Bob Mylod and Jeff Boyd pivoting to extreme financial rigor at Booking.”
+
+The following week, Levchin made a public commitment to shareholders that Affirm would become profitable—first net income then operating income—within 12 and 24 months.
+
+“We’ve just delivered on that promise,” Levchin told me.
+
+Affirm’s shares have risen fivefold since their late-2022 lows. Durable has rebounded too, but Ellenbogen isn’t celebrating. A week after his dinner with Levchin, ChatGPT launched. In his career, Ellenbogen has performed well through three platform shifts—web, mobile, and cloud—by finding emerging companies before they dominated. AI is the fourth. But, so far, companies already worth trillions are leading it.
+
+Another transition. He knows how those work.
+
+Dom Cooke is the managing editor of Colossus.

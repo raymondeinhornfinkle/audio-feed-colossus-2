@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <title>Beyond the Sky (Colossus)</title>
+  <description>An audio reading of Beyond the Sky from Colossus.</description>
+  <link>https://colossus.com/article/beyond-the-sky-jeffrey-yan-hyperliquid/</link>
+  <pubDate>Wed, 16 Sep 2026 16:20:37 GMT</pubDate>
+  <guid isPermaLink="false">urn:article-reader:bb2c2d542b55395cfac6efaee79bfdb04411f11dbd855095a4c404925b7abda3</guid>
+  <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-bb2c2d542b55395cfac6efae/article.mp3" length="62835338" type="audio/mpeg" />
+  <itunes:author>Dom Cooke</itunes:author>
+  <itunes:duration>01:05:27</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>

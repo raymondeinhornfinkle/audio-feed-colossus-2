@@ -1,0 +1,84 @@
+{
+  "article_id": "fff9c6ffebb8e2f6b5d2a073d84db80977d2f9583e8afd33c726364ad9540422",
+  "guid": "urn:article-reader:fff9c6ffebb8e2f6b5d2a073d84db80977d2f9583e8afd33c726364ad9540422",
+  "release_name": "article-fff9c6ffebb8e2f6b5d2a073",
+  "article_title": "Invisible Companies",
+  "publication": "Colossus",
+  "title": "Invisible Companies (Colossus)",
+  "author": "Jay Barney, Haiyang Zhang & Jerry Neumann",
+  "source_url": "https://colossus.com/article/invisible-companies/",
+  "duration_seconds": 1380.015,
+  "file_size": 22081838,
+  "media_sha256": "2defceba422041e704bff6ad08b42920fc53ee07cecb64f0da7febc0a637a37d",
+  "transcript_sha256": "6be8b205fb4e84971e90442b58053487338f3465e98a7e503fa6716bec2091f1",
+  "extraction_report_sha256": "31b83baab99b2ad95daca4fc04c91de27fb03af575ac90244a45126f5ae9a2a6",
+  "audio_manifest_sha256": "488da790aa6d3b015ce4656070104d22ca018eebbf011038f29beea69eaddbe9",
+  "audio_run_sha256": "5763e55d771032939586ef50741604a5e7ab845f2d784db5d0885bb8ee211104",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 7,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "25666fd2e705769cba18067f1f8a4158a3ca13e6a09b07de0c2fbd1ecee98866",
+      "audio_sha256": "07ee74b114fcd2306b81378497cb04cf46bb7c19f060d83fb4346daf69cc7148",
+      "pcm_frames": 5295720
+    },
+    {
+      "index": 2,
+      "text_sha256": "c0e13bbd64cc5662c827b5d4e76cf9e8df38457bad51235307690311dc235801",
+      "audio_sha256": "671d49096bc918716cf4e90a33cd538b43b865d2b186a8537fe3a1472e333e86",
+      "pcm_frames": 4748760
+    },
+    {
+      "index": 3,
+      "text_sha256": "5883d2bd52442bdd4004ec622eb21b0df9ca172c6c2b50976a25c9222a25bf47",
+      "audio_sha256": "830e4468305f4bfd8675036dabc724355b0a0b61ee06f7960139cc374a6a767d",
+      "pcm_frames": 5151120
+    },
+    {
+      "index": 4,
+      "text_sha256": "d1610220e80c491e896500f9f0b072e5cc3d879f171d7f5b985463914e57fb8a",
+      "audio_sha256": "768658b2275cf9dac158ba80a7f15ebfd0f9f63fae0615c211089b8db0820c41",
+      "pcm_frames": 5138520
+    },
+    {
+      "index": 5,
+      "text_sha256": "b63cf16cae2e696ada7f90d985812cc5f3dbe4f82a178bc5a482a7998b444446",
+      "audio_sha256": "42593e04c20b501f3ab9821af54acf36993cca6b257889cde6b3faa4f56f82fb",
+      "pcm_frames": 5243640
+    },
+    {
+      "index": 6,
+      "text_sha256": "9998eb022ea07e1c04d1676cd93c46307fa53527fbb102a77d1fbba7e8ee53a2",
+      "audio_sha256": "d7610230e5983706b08c5e879392ae74a830f0c82a40c2ab25d8709757c19f9d",
+      "pcm_frames": 5309880
+    },
+    {
+      "index": 7,
+      "text_sha256": "09657dae96272020b3ae89a0375b70770a2d2fe624c9bd86d28ed9ccaa675f21",
+      "audio_sha256": "3659eb99d0e4947f01f5abc5cb322fb2b882dff2faa49ba4093551d5ddc63e03",
+      "pcm_frames": 2232720
+    }
+  ],
+  "pcm_sha256": "0d39a1671d40a357e0e84884ba03ead157b6fa31c3620135be8409d9581189a3",
+  "pcm_frames": 33120360,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-fff9c6ffebb8e2f6b5d2a073/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-fff9c6ffebb8e2f6b5d2a073/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-fff9c6ffebb8e2f6b5d2a073/rss-item.xml",
+  "released_at": "2026-09-16T16:19:52.800369+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

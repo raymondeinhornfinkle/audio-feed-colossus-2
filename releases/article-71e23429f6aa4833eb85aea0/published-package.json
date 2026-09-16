@@ -1,0 +1,96 @@
+{
+  "article_id": "71e23429f6aa4833eb85aea081dc10e39ef15a237e7f4ca6a6757504a35a5a4c",
+  "guid": "urn:article-reader:71e23429f6aa4833eb85aea081dc10e39ef15a237e7f4ca6a6757504a35a5a4c",
+  "release_name": "article-71e23429f6aa4833eb85aea0",
+  "article_title": "Garnett Station Partners: Creating a Finance Franchise",
+  "publication": "Colossus",
+  "title": "Garnett Station Partners: Creating a Finance Franchise (Colossus)",
+  "author": "Dom Cooke",
+  "source_url": "https://colossus.com/article/garnett-station-partners/",
+  "duration_seconds": 2284.075,
+  "file_size": 36546737,
+  "media_sha256": "8ac8de10cf9d858731ddcc54cfb83cb5e0deab877d5b245b3af667aeab287b52",
+  "transcript_sha256": "65903ac31eaf22085f5d38f76b9c4c1a20148fcb4e7d25851978f0c27913608b",
+  "extraction_report_sha256": "5b9686eb7b00e914c115e624d8a9c2ae1039eb444897306fef1a9ac7d3f15058",
+  "audio_manifest_sha256": "e58b3069c2553b8d66a10bafd16b2f268c7214f5015839d26657ea3aab9d178b",
+  "audio_run_sha256": "d28c676e135dd1583bbea4ceab647d284b1e062c1d1103b46de17b22a41fe671",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 9,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "19fb3b8eeaf1c40afd2b764cfde5cebc56457ad275f5fcaf62e8d169a8516434",
+      "audio_sha256": "ff4a20c384ad2d771c3034255518d8a3d1c91ef8c2fbbe96860e86de44a5bc0b",
+      "pcm_frames": 6469440
+    },
+    {
+      "index": 2,
+      "text_sha256": "cadf26ace6a8180902f35cb2973e67cec3fa9da4eaa7882a0e76c7ea2eb1db76",
+      "audio_sha256": "964403972039398e6a2615ecba3d88eca1b7d4bfc3fb0edeeccafbcffa1f6261",
+      "pcm_frames": 5745720
+    },
+    {
+      "index": 3,
+      "text_sha256": "2cc13bc9715cccced6a64c5f61630ff818eb97710013889b1b4ee119846f5924",
+      "audio_sha256": "6238d8fbfeaf5299b3fd8d5e9b42c36237e12c8c71028c6a0d48cc9799328d6b",
+      "pcm_frames": 6352560
+    },
+    {
+      "index": 4,
+      "text_sha256": "97e9f697cf70bcb560277653c5cd0eaaa22bb70f5809683828a5cd170d450faa",
+      "audio_sha256": "e6a3c12a61514e912bf3a57a4659eb99c330afbb3601655e603267ebb4c562d8",
+      "pcm_frames": 6411240
+    },
+    {
+      "index": 5,
+      "text_sha256": "b85c33fe23207181f0ac15aa34e2b5c235a74139be2d18fde1da2ebe4151aac2",
+      "audio_sha256": "a51e7cacd5251391cce72353476370230fb70c3a8cfd7b409f5ad68404e6b31e",
+      "pcm_frames": 5818560
+    },
+    {
+      "index": 6,
+      "text_sha256": "9ebe05c44cc3d04c15a0ae16377ccd9a523565a69dd0a500d5c30f37d065d5b3",
+      "audio_sha256": "1acd203b0183e82e33e94790f538e993e0289d9aa42ca0462cf43d6be426ae2c",
+      "pcm_frames": 6613320
+    },
+    {
+      "index": 7,
+      "text_sha256": "cb56db086689f021eecf90b1d49fd87e423beae97694009fafad707e51006fd0",
+      "audio_sha256": "e0f79ce7a4d67c11f236cbb028ed841d43f2025c87d782aea2afb8c54e2018f7",
+      "pcm_frames": 6121560
+    },
+    {
+      "index": 8,
+      "text_sha256": "b9fc303d0cf0ec8039dcb09ae10105dec5fce169a662c39c3baea773d76b2153",
+      "audio_sha256": "c3d92227253106a67dc470446fad2457f2ba6c0320174961c8b9598a6f4baadc",
+      "pcm_frames": 6028680
+    },
+    {
+      "index": 9,
+      "text_sha256": "0d51658fc30d4ab8f6da3d54e9f2dc120de47521d6b315b88c76c94aaf54d75d",
+      "audio_sha256": "850713874638f93d71f148470969d7cb2af17c625c276a05fbb9f72e012c5471",
+      "pcm_frames": 5256720
+    }
+  ],
+  "pcm_sha256": "52c7739328a01690e3ea40699503f2530d255f32b8bc1483ede31a43a60255e8",
+  "pcm_frames": 54817800,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-71e23429f6aa4833eb85aea0/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-71e23429f6aa4833eb85aea0/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-71e23429f6aa4833eb85aea0/rss-item.xml",
+  "released_at": "2026-09-16T16:10:33.201769+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

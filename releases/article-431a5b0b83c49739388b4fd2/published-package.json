@@ -1,0 +1,114 @@
+{
+  "article_id": "431a5b0b83c49739388b4fd2dd7c3251aeb57ef63267ff3a21fa9e63fa2cebfd",
+  "guid": "urn:article-reader:431a5b0b83c49739388b4fd2dd7c3251aeb57ef63267ff3a21fa9e63fa2cebfd",
+  "release_name": "article-431a5b0b83c49739388b4fd2",
+  "article_title": "The Amusement Park for Engineers",
+  "publication": "Colossus",
+  "title": "The Amusement Park for Engineers (Colossus)",
+  "author": "Adnan Esmail",
+  "source_url": "https://colossus.com/article/the-amusement-park-for-engineers/",
+  "duration_seconds": 2788.43,
+  "file_size": 44616479,
+  "media_sha256": "53374e1866862cb91658e9277b8190b5df9841aad4501b9a4740575f56ca1892",
+  "transcript_sha256": "ef38a561b11f8fd49264d6c4819837c781c881fd149b4ebb129964f8cb76966f",
+  "extraction_report_sha256": "2135932cf82211a1e2818ce7a5474c345483b7dce86484e5a4e1472af1c5931b",
+  "audio_manifest_sha256": "848275690f50ebebaaabcebc4775398880b2b84d80c5f74322212afda06c2b99",
+  "audio_run_sha256": "f7bd9e2ed716801f6733d79957aa0eebdbd4635f966267b949f84dba9c19fd8d",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 12,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "2179565ef3239e28f7cc79c71b0cacc481e222f6189d13ec874d92a9606f4bc4",
+      "audio_sha256": "bcf90c649627c906d69cfec0bb10e287884ac980555d145373b695b9e27b471c",
+      "pcm_frames": 6081480
+    },
+    {
+      "index": 2,
+      "text_sha256": "4c0a57b9974442b97987166946febf599ca433c951387baa15310b1d5d3b5a6a",
+      "audio_sha256": "45e78ef1f4ccbdb9f688337e0e3c7c1c9e8aa2607e567ddcb6efdef550fff5b2",
+      "pcm_frames": 5753040
+    },
+    {
+      "index": 3,
+      "text_sha256": "ac54ecef07a78440ca62a7e6c99d9e92fda8cee606b0b4eda04f327256fc04d6",
+      "audio_sha256": "f1951c03a998a3d2200695cbd33587ef029c7f9caa1613c5958204fc77c755c8",
+      "pcm_frames": 5771520
+    },
+    {
+      "index": 4,
+      "text_sha256": "d5c248d0daf923a990a04088ef5b0ab549980be1dd99f78e937448bae95f4f4e",
+      "audio_sha256": "c21036d7f8945a5f54b4a3ffa3a0ce7d1f1067fea2825b9c2c24d7212393629f",
+      "pcm_frames": 6043200
+    },
+    {
+      "index": 5,
+      "text_sha256": "565c4c09fe5234bcbfba5e001d12a6646647ebcb14caf092d7e00c9392e1b23e",
+      "audio_sha256": "6fabe035d239a5450344c13adbca91cbea54560521b6495df927e612ebd53aaa",
+      "pcm_frames": 5954040
+    },
+    {
+      "index": 6,
+      "text_sha256": "3648a6ff5381f9b9c090194f84171e9e23af9e68747e9b9fb4221626436120e4",
+      "audio_sha256": "46b845e434a5666859b785987d0ebff410b3dd1e430ecd42fc403ed54f2fb034",
+      "pcm_frames": 5491320
+    },
+    {
+      "index": 7,
+      "text_sha256": "6292b09c8acaf03c35e262a840a19f853609c164e44b55939b340df7b5ff4c21",
+      "audio_sha256": "f7461a932a59a5fdf67b8d245f51d49ff3db5cf356563945067aabe74d63c9f9",
+      "pcm_frames": 5595960
+    },
+    {
+      "index": 8,
+      "text_sha256": "b5b4bc0aec868a41ec9de17795da5594c97c2226776c09dfea0184cb960cae1d",
+      "audio_sha256": "9ab1c601d1c30ecb04dca0638fa66e8fa7060935599003c0b0491097ac209230",
+      "pcm_frames": 5946000
+    },
+    {
+      "index": 9,
+      "text_sha256": "5042f50800aa99545f0b6423fbdeec6c3209bbeee5998b71e23a706c8d587564",
+      "audio_sha256": "1437ad0a70e739cd99643651bdbb9d84b74e65a86bfac8fda151398a8aa60e1d",
+      "pcm_frames": 5931600
+    },
+    {
+      "index": 10,
+      "text_sha256": "cdeffa9b6eda45aff1bf76b95aa6dd98db9515c62e2faca0b19b33fda0d126f1",
+      "audio_sha256": "be26006775bde25178ac60dcad16e9d44376750136591ab281a35e692c6ecba0",
+      "pcm_frames": 5746560
+    },
+    {
+      "index": 11,
+      "text_sha256": "1375b3b56426da99f1ab5b9a190d7b8c28d06c590fb87c275a3f926e68ef2c11",
+      "audio_sha256": "fca2367c77fcfe254d88bb476244b7c3bfdef9cac76ae961638431b46a8c62eb",
+      "pcm_frames": 5769600
+    },
+    {
+      "index": 12,
+      "text_sha256": "2a4a26b2b3623c9c0e9c3df14815f62f167559667e2175a5f001279e17538131",
+      "audio_sha256": "f288904df420d6e3c3d1b0700e36853d1abac98bf0fac2de4ff92df83d8e0089",
+      "pcm_frames": 2838000
+    }
+  ],
+  "pcm_sha256": "d3b20c03339211820d712e24c8d76734e44cdb2f0d87fc75189dc5f30cff53c0",
+  "pcm_frames": 66922320,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-431a5b0b83c49739388b4fd2/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-431a5b0b83c49739388b4fd2/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-431a5b0b83c49739388b4fd2/rss-item.xml",
+  "released_at": "2026-09-16T16:11:38.827743+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

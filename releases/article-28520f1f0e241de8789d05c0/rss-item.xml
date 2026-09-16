@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <title>The Wretched Refuse (Colossus)</title>
+  <description>An audio reading of The Wretched Refuse from Colossus.</description>
+  <link>https://colossus.com/article/michael-moritz-memoir/</link>
+  <pubDate>Wed, 16 Sep 2026 16:18:37 GMT</pubDate>
+  <guid isPermaLink="false">urn:article-reader:28520f1f0e241de8789d05c05c14ec12adc4433c1d2f973b2357d7db8a6f30e9</guid>
+  <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-28520f1f0e241de8789d05c0/article.mp3" length="31348883" type="audio/mpeg" />
+  <itunes:author>Michael Moritz</itunes:author>
+  <itunes:duration>00:32:39</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>

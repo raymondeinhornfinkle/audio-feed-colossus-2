@@ -1,0 +1,132 @@
+{
+  "article_id": "bdb92e56be358a3549f15a72190942cddea8ae68fc6b22e640f1acbb6e926168",
+  "guid": "urn:article-reader:bdb92e56be358a3549f15a72190942cddea8ae68fc6b22e640f1acbb6e926168",
+  "release_name": "article-bdb92e56be358a3549f15a72",
+  "article_title": "Project Mario",
+  "publication": "Colossus",
+  "title": "Project Mario (Colossus)",
+  "author": "Sebastian Mallaby",
+  "source_url": "https://colossus.com/article/project-mario-demis-hassabis-deepmind-mallaby/",
+  "duration_seconds": 3427.535,
+  "file_size": 54842001,
+  "media_sha256": "13c80ce90ce7027ab6e43f35896f2b7cfbabcd540c75140c871ce33a4ff42e5d",
+  "transcript_sha256": "4a5c49ddb71203c3e16e60ba7fc608b73e8c4e74198f758e190ee182b4220a9c",
+  "extraction_report_sha256": "9d974c2b27d9db7fb1b8f63592563cdb89c221de07a8e307b65e88f91c6ceb3e",
+  "audio_manifest_sha256": "93ce7b3015cfba890168b60d024a6a1baf8c3e610e129830e663fb3154587cdc",
+  "audio_run_sha256": "b07629f6e531ccf53a240862d9b3d138479854f163f3c1b77be70b6a0817b031",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 15,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "bb73e87e637019cb80ef6cebfc6c556e8e1557d58feb03915f9203e55094a65b",
+      "audio_sha256": "1c8b543a1f5f2c8122e551c2ba0caccfe2628527e24a6aaf9e78b4e0e2ea39da",
+      "pcm_frames": 5309640
+    },
+    {
+      "index": 2,
+      "text_sha256": "ebff37db16aa5b5d1d60dec21379e0d75eb59ddac1f79fb0fa378ac5a6c4e0c1",
+      "audio_sha256": "d7ffacb5dc44ae1bb75c4d4cebc73afbec93bc92ee896cafd5cb01a293b4fe19",
+      "pcm_frames": 5846160
+    },
+    {
+      "index": 3,
+      "text_sha256": "414835d92e5a7f0daf28fca14ed743d317314806e3fcaf62fccaaf0489338aaf",
+      "audio_sha256": "c6023330ab0399e33b47f28faa5db82340f09081cd88449237446083d632360f",
+      "pcm_frames": 5330760
+    },
+    {
+      "index": 4,
+      "text_sha256": "2f50e919d8b915d45d11d33d3baf9982ac6187bb2f048caa75168cdf95dc71f2",
+      "audio_sha256": "dc1613eb852e8bfa9d371f911a42203cbc4f2cee147a39074bd7aa25a143b9f8",
+      "pcm_frames": 5687520
+    },
+    {
+      "index": 5,
+      "text_sha256": "800f0fd19dae06e51a4a6e61d18d2c7bc0f413ad4d9b0efbdd68ab86db411112",
+      "audio_sha256": "fe38300bdf545c7dd6c7ed8151f235e1d56b359319aada1baa2efb39e00c5379",
+      "pcm_frames": 6025320
+    },
+    {
+      "index": 6,
+      "text_sha256": "2dc1f880b0e4ef2a369a065c282936e2ebc699b2eb146fde13e6a97979fa069e",
+      "audio_sha256": "602ecf0985aa4d1c9daa990d6f288404eb1b0d26a32f7b11ba60f4a0ca9f8ddd",
+      "pcm_frames": 5054280
+    },
+    {
+      "index": 7,
+      "text_sha256": "885677d9691161de1c66516e77458a7cf111c74a103832f83082c30c65da5fb0",
+      "audio_sha256": "ad731dedca7f08b24026c6ffc653990a5b17418dd384abea3ac5d05a913adafd",
+      "pcm_frames": 5640840
+    },
+    {
+      "index": 8,
+      "text_sha256": "bd4a4c7766e102ecb687579c1c2b1d7c0f78d53e4fcb91ec085298292f430cb6",
+      "audio_sha256": "c9cfe3aef083cb5c04db327011f0f7e28066a60b3392570d68eed6d5447d4ae5",
+      "pcm_frames": 5802480
+    },
+    {
+      "index": 9,
+      "text_sha256": "b7a8d2d1983b5585a2f1e6b6414a5f5d7a9d282122e3dba58c90d368dea6b2e6",
+      "audio_sha256": "37fc217cfe8b8359a22235e6ff826d19e7b457e0cc72a32fbd1022070cecb082",
+      "pcm_frames": 5544240
+    },
+    {
+      "index": 10,
+      "text_sha256": "15105258473c10041c4101834a89806377b4952cf92d4bf5800e800f832d6071",
+      "audio_sha256": "3ed49767caf999916f9dd073b1ddb89fc99b631c97357c6c331626358622ba5f",
+      "pcm_frames": 5674320
+    },
+    {
+      "index": 11,
+      "text_sha256": "5e2e460b137002442d359238b5f96dd23b3508eb7f881a6cc72181029ba24202",
+      "audio_sha256": "7ef6de9736281b742e1b5665d641629c238a7da8a7f2ba7fab992b0abe94df71",
+      "pcm_frames": 5771640
+    },
+    {
+      "index": 12,
+      "text_sha256": "2084b35290ec50ccd67ef2daa21c79dbf82308bf319c765e4d091bf151e78826",
+      "audio_sha256": "42458b40e4daef4efecf3f64b98cf2b1bb17c6e16d5001e73c6536fa37260d58",
+      "pcm_frames": 5817840
+    },
+    {
+      "index": 13,
+      "text_sha256": "60b17809407e1b1141b6b94e943aa392a47b549ee61eb8f6fe569e5247c84d4b",
+      "audio_sha256": "dea5c1d8fefee427a009f803d952d0e995d6f680d0bb276f9ffa2f1bb8438159",
+      "pcm_frames": 5116080
+    },
+    {
+      "index": 14,
+      "text_sha256": "4ca9e5335785c59671e4d56c570e712ec1ca134e05d4b46d83ace046e755ee59",
+      "audio_sha256": "15f443e828a3adbfae24652bbea21986f7c205da6e3cbc463912ecdbc8094ff7",
+      "pcm_frames": 5791680
+    },
+    {
+      "index": 15,
+      "text_sha256": "6847a03664847a15f9214e662521905459b34586878987ef1e68b00dcd123f5d",
+      "audio_sha256": "6ec98de8b135a3f1d5503290debe033e8903e02a543df2a336e2936f4e2b0a8b",
+      "pcm_frames": 3848040
+    }
+  ],
+  "pcm_sha256": "a9ce76b42a2240e6685146fd22febacf62efd2a258320aa457fe013d6354ef85",
+  "pcm_frames": 82260840,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-bdb92e56be358a3549f15a72/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-bdb92e56be358a3549f15a72/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-bdb92e56be358a3549f15a72/rss-item.xml",
+  "released_at": "2026-09-16T16:13:56.370366+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

@@ -1,0 +1,96 @@
+{
+  "article_id": "0f2d15599020f34908a5f78774f515c43dc13ea2299b0975ce426c5dcd3fad2e",
+  "guid": "urn:article-reader:0f2d15599020f34908a5f78774f515c43dc13ea2299b0975ce426c5dcd3fad2e",
+  "release_name": "article-0f2d15599020f34908a5f787",
+  "article_title": "White Collar PEDs",
+  "publication": "Colossus",
+  "title": "White Collar PEDs (Colossus)",
+  "author": "Park MacDougald",
+  "source_url": "https://colossus.com/article/white-collar-peds/",
+  "duration_seconds": 1873.775,
+  "file_size": 29981842,
+  "media_sha256": "04e662f67a1967e018b14e72cdbdc5fe4769cbdb77702fbd2075aea57e59d6ad",
+  "transcript_sha256": "57291036d4945e5eb2532ae0b1662637ccbf12a6287f98e4afc355dd6fd98741",
+  "extraction_report_sha256": "d036be09e70312060d09ee496ee35197ab85ac7ac0c87f052de89af198d89a3f",
+  "audio_manifest_sha256": "fec53e00fe9c28446df9f8239846bb0b25c73a37692e1853d0b14ca4853949b8",
+  "audio_run_sha256": "1c4c9a223c484e795cc879e821dc5265f2656451e620b030b4e37d1f0e4af530",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 9,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "8c4a87c1b61400f50d33f11e88522441fb29fb97ff9583df9030c5b78dd885bd",
+      "audio_sha256": "b2038baecfd6ffe402db6b17be55491bac8fe8469e43d398509f6143fec3be81",
+      "pcm_frames": 5342280
+    },
+    {
+      "index": 2,
+      "text_sha256": "5095cb4366163fcbc1f5221d3e5805c68d2d84c72e877bb9e9713a24f3933e4e",
+      "audio_sha256": "f709515413d919bc86d33ecac26f7f5f108faa11c235997b2f793258fe23dd5e",
+      "pcm_frames": 5947800
+    },
+    {
+      "index": 3,
+      "text_sha256": "0c3f11c7fcabc9c35f561c9260ebcea5a63f2a0d8c8a7d9363fb5b73410fc883",
+      "audio_sha256": "304843760dad0581cf5175068ddd7732f4e2253cfc7dab9072b8d60e024d358d",
+      "pcm_frames": 5673840
+    },
+    {
+      "index": 4,
+      "text_sha256": "ef0298442da188ffc637b48ad654129512695a0c2585e3e76f4daab4a4dee087",
+      "audio_sha256": "277541d49513cb8a2c6c83be8251826455eeacccef12892918a2d645e5d5a70b",
+      "pcm_frames": 5708280
+    },
+    {
+      "index": 5,
+      "text_sha256": "17109fa65bcba18543b19b886d6228feeb8380bbc463f43f31283005699404ab",
+      "audio_sha256": "8125a6e4915767025b5321a482a5b5c67c92d8489cd83f13ec0cba752580badf",
+      "pcm_frames": 5684160
+    },
+    {
+      "index": 6,
+      "text_sha256": "26aaa50d29e2ea023344b93b1e3cd671a452fb6f55b566654dc0198e7a9e033f",
+      "audio_sha256": "0b2148281ccb8c3db6e157a1774dd91d34118d9cf13701cd7216a24a201857f3",
+      "pcm_frames": 4968240
+    },
+    {
+      "index": 7,
+      "text_sha256": "907981a915c8e6b2e12e67591ec2ad98d6afc9bd24021cf2e7092a7e86249fad",
+      "audio_sha256": "49c056d38f55f639ff4fc783ffe7cef9de60d905902dbb184fd9f7371932d8c9",
+      "pcm_frames": 4407960
+    },
+    {
+      "index": 8,
+      "text_sha256": "98552f6009ed039c98f5c46f998c3b3050ecd82ecbfdd7ba593457c8d9b308c4",
+      "audio_sha256": "7712173e4c03b84c7e21c396122abd58a4f8504d99013f7222a2f358fa38e023",
+      "pcm_frames": 5350680
+    },
+    {
+      "index": 9,
+      "text_sha256": "221829c8087879414663fd696721fdeb6e2b791fb5f569fa3dadf8d31c0dbbc6",
+      "audio_sha256": "f0514230794709a02653d2e31ed3db97d64d332cc8be7b7e76843a9779a2d6b1",
+      "pcm_frames": 1887360
+    }
+  ],
+  "pcm_sha256": "9efac13ec95fda386776eedac23ff5e0f2f506ed12be108f2d4e9043160b79b5",
+  "pcm_frames": 44970600,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-0f2d15599020f34908a5f787/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-0f2d15599020f34908a5f787/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-0f2d15599020f34908a5f787/rss-item.xml",
+  "released_at": "2026-09-16T16:18:22.342686+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

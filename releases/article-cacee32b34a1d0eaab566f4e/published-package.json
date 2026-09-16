@@ -1,0 +1,66 @@
+{
+  "article_id": "cacee32b34a1d0eaab566f4e8c51aceab9077ce8e707f0b45fb8df943811a166",
+  "guid": "urn:article-reader:cacee32b34a1d0eaab566f4e8c51aceab9077ce8e707f0b45fb8df943811a166",
+  "release_name": "article-cacee32b34a1d0eaab566f4e",
+  "article_title": "Pathfinder: Blake Hall",
+  "publication": "Colossus",
+  "title": "Pathfinder: Blake Hall (Colossus)",
+  "author": "Gabi",
+  "source_url": "https://colossus.com/article/pathfinder-blake-hall/",
+  "duration_seconds": 817.43,
+  "file_size": 13080460,
+  "media_sha256": "3da89079fbeb393e11f523b0f9ef3f23a87d8ec9e61c0a47bec2fbd7aa601354",
+  "transcript_sha256": "cce11d0877b951c1c4101cfcae169c77d45193be34397cd9e70648c365ee522e",
+  "extraction_report_sha256": "ab1e5812f6800e7a9aeb1d7e18345833b470cf87f7c6e5040065e5c6032691b8",
+  "audio_manifest_sha256": "826ee01cb1d85ece0aeee44e4e0d2473a21a24f172e2ee5af681c2c9c2dc0061",
+  "audio_run_sha256": "f2f33e2ab29b1ebca01854de579d61d219b535b1560ebda07ad3751cb0e08440",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 4,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "2ab9a057757f22c588bf028501544b3bc65235cbd5b82e301576da319046fc7d",
+      "audio_sha256": "e7b11306cf8669f5852590c213d97ac47c87de6ab881819b6f36183625c9210d",
+      "pcm_frames": 5486400
+    },
+    {
+      "index": 2,
+      "text_sha256": "c6aa234451c2cfe72b98f1e88f9cf25ab90b960c167fe0c305f07dcbc76504c6",
+      "audio_sha256": "f2100d8d8a34f7c6e2e8b6e7c8c096e008db40a9a483ece8b34b9ed4adfd5947",
+      "pcm_frames": 5843880
+    },
+    {
+      "index": 3,
+      "text_sha256": "daa05b5a0c831ab5ff3150d7314ab5005ba60a2daefd34cf68a90c426e62b910",
+      "audio_sha256": "ac26038d9df35098ed5f789a5b3840d2824fafc60ad910fe958e498d3f7fad69",
+      "pcm_frames": 5634480
+    },
+    {
+      "index": 4,
+      "text_sha256": "926b3633475785c6e0771ba48004fc079a86e637d584ac5a4ed40abbabef1d2d",
+      "audio_sha256": "e96be35991095e56924f5c2b016d4523d804455dc930a8d3ceab214680f3d22c",
+      "pcm_frames": 2653560
+    }
+  ],
+  "pcm_sha256": "fb0a3fe3308781072f31de0197bc1cb122cf4183e3e9f1e2d545794389ba8ced",
+  "pcm_frames": 19618320,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-cacee32b34a1d0eaab566f4e/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-cacee32b34a1d0eaab566f4e/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-cacee32b34a1d0eaab566f4e/rss-item.xml",
+  "released_at": "2026-09-15T16:10:02.400365+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}

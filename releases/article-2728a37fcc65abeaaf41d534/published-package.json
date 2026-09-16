@@ -1,0 +1,126 @@
+{
+  "article_id": "2728a37fcc65abeaaf41d534faa11f5701d6479515747dde4162ccaf26734caa",
+  "guid": "urn:article-reader:2728a37fcc65abeaaf41d534faa11f5701d6479515747dde4162ccaf26734caa",
+  "release_name": "article-2728a37fcc65abeaaf41d534",
+  "article_title": "Lovely Day for the Black Stuff",
+  "publication": "Colossus",
+  "title": "Lovely Day for the Black Stuff (Colossus)",
+  "author": "Alex Bilmes",
+  "source_url": "https://colossus.com/article/guinness/",
+  "duration_seconds": 3180.735,
+  "file_size": 50893340,
+  "media_sha256": "2c3c881ef77b5c027680f3d42748501ba4a1808424a90ab66438a71a12f14b87",
+  "transcript_sha256": "769cd5ec57b2ed147e188e5b7a244a0ede3b99413174adfabeff6611e5a3ecc5",
+  "extraction_report_sha256": "fd713b6a07008c45d5dee2e0a7253d6c7cf85e5d3596762da2e03271f3fa752c",
+  "audio_manifest_sha256": "999b38f7a83822375cca538c24303df3b3d7bd0b9065b27bac7b1985f482cfd8",
+  "audio_run_sha256": "a10147898560bfcaaeeb0aafac44af5914bff0f6aa135a84149235ba255eaabf",
+  "audio_settings_sha256": "a0290f8a11b4f3befac7505b6e0ec36eaaec976b2accdc466cab21cd19f8697f",
+  "chunk_count": 14,
+  "chunks": [
+    {
+      "index": 1,
+      "text_sha256": "c251f250b3c2cdaf310ad7ffb3092405fdd1296bde0f847d4114513aaac17407",
+      "audio_sha256": "948f979d937b33e552de1e9d4157b534ed4c898fe1f6520ff1ae8cd850065b7a",
+      "pcm_frames": 5414520
+    },
+    {
+      "index": 2,
+      "text_sha256": "cd6a4187826ebb295bf612ea074ee60179c1bf730edab3780a83bdb69b402685",
+      "audio_sha256": "93335571814a26ff79444f3fe01a9a1e6e4240e4e44b062a0942b6e672f610e4",
+      "pcm_frames": 5564520
+    },
+    {
+      "index": 3,
+      "text_sha256": "08f5c0e267e3b671ffa89312042c71d814c303cbb78f25078c4630bc9a2ba7e9",
+      "audio_sha256": "1ee5386524ddf866be4e76a36007624c3604a8b0a755071e92a8680c220c315a",
+      "pcm_frames": 5693760
+    },
+    {
+      "index": 4,
+      "text_sha256": "4a9106733743ed94ceb208609bc4e89b72ada3b91cc97d524c8b194e1ea1fcc0",
+      "audio_sha256": "61afbd6ca94f144aea2c2a922d0421002189445b3716799a86bbcbb02422e321",
+      "pcm_frames": 6038280
+    },
+    {
+      "index": 5,
+      "text_sha256": "bcc4faef7d6737402fb0e5340cedbc1d09a430e6bda93df8ce7d57c0c0db78fb",
+      "audio_sha256": "8835577eb96ed3e5914842294440a1c4f287c8baa05525fb04ec169dd42a8e22",
+      "pcm_frames": 5152080
+    },
+    {
+      "index": 6,
+      "text_sha256": "d34892fd42410f9f6c6c42c2af7c5ff112d774a5090cdf54b790a3fad41fd764",
+      "audio_sha256": "821dcbad905bec189b0253f4c340a489ceb783c330edfa2e4d9255b739f13176",
+      "pcm_frames": 5774040
+    },
+    {
+      "index": 7,
+      "text_sha256": "28fd01f67c90179e0ff70efb93e672be6415cd24848c1b514e7c6f1ed047aee8",
+      "audio_sha256": "ecd9821b789a00068ac5cb9e64c19e11a92e5769729de333b8d63f56ef32458c",
+      "pcm_frames": 5078520
+    },
+    {
+      "index": 8,
+      "text_sha256": "96d9a8908faa6fa8750974b81b2115d70bbe68cce844143d2d4e449c60be05e1",
+      "audio_sha256": "46829bc57c6153c3a3475537a1932cec2f2c31c72b8e3ad913eba147ad84951e",
+      "pcm_frames": 5433120
+    },
+    {
+      "index": 9,
+      "text_sha256": "945b4db72d18d8b4155b8caa7beaad109c92754f65d445adabc86272cf551605",
+      "audio_sha256": "8741401266364a7df2fc97bc6e979869dde90a6cd922bbd6113ccd37fdc97524",
+      "pcm_frames": 5791920
+    },
+    {
+      "index": 10,
+      "text_sha256": "fc10f62fa4af21dedb043b55bb1e395779c12bab6092c2416a1584ce1c36bdc4",
+      "audio_sha256": "cacbc5b379ccb04d16687b7a5572a9d3345b63821444788d10a0a7f1614d954a",
+      "pcm_frames": 5982720
+    },
+    {
+      "index": 11,
+      "text_sha256": "85c823748b2989469cc5987977457df074243b5652c0dd035ee71627ce2b5b18",
+      "audio_sha256": "527448d63f8005196011d48a7789bf4f20d226392530be68c78b58a80aebb833",
+      "pcm_frames": 5528520
+    },
+    {
+      "index": 12,
+      "text_sha256": "5af6a5356cd9784dc97e7cb8ccef74d7a435f4e5532664bf92ef2fe86bd2484d",
+      "audio_sha256": "b002cdd4ccc96bb66c2191e2eb82a9a31190fac78811aec118683e083c81df6b",
+      "pcm_frames": 5447760
+    },
+    {
+      "index": 13,
+      "text_sha256": "1eb7431218d26978672b4847c97b3befbb7722282110cb9201ce7544a36f02f7",
+      "audio_sha256": "f42536c64270a6b7ff8bb0257fa94344059662cd3ccd448ee7e68a76ecf30896",
+      "pcm_frames": 5755920
+    },
+    {
+      "index": 14,
+      "text_sha256": "d928552763cecefabe44df4097dbf50a2a8052eb1e49ac8467bf9f7beb6e8d3d",
+      "audio_sha256": "59ad5b6fc3e1f56bf08aa3bbf317365a2effb7be538d7086cac28187c54605d6",
+      "pcm_frames": 3681960
+    }
+  ],
+  "pcm_sha256": "84e98153269e4db18036a4244fa0b797e1566865d5763cbe138fb4a655d0e326",
+  "pcm_frames": 76337640,
+  "audio_format": {
+    "codec": "mp3",
+    "sample_rate": 24000,
+    "channels": 1
+  },
+  "voice": "af_heart",
+  "language": "en-us",
+  "speed": 1.0,
+  "publisher_version": "1.0.0",
+  "method": "podmaker-directory",
+  "status": "released_to_directory",
+  "title_format": "Original article title (Publication name)",
+  "validation_scope": "Existing extraction/audio gates plus source hashes, ordered PCM comparison and MP3 decode; not an independent transcript.",
+  "media_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-2728a37fcc65abeaaf41d534/article.mp3",
+  "transcript_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-2728a37fcc65abeaaf41d534/transcript.txt",
+  "rss_item_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-2728a37fcc65abeaaf41d534/rss-item.xml",
+  "released_at": "2026-09-16T16:19:09.654345+00:00",
+  "remote_feed_updated": false,
+  "public_urls_verified": false
+}
