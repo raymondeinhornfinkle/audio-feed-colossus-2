@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <title>Neural Networks Are Already Clean (Goodfire)</title>
+  <description>A full audio reading of Neural Networks Are Already Clean by Nick Cammarata, published by Goodfire. Includes the appendix, footnotes, figure descriptions, and references. Narrated locally with Kokoro’s George voice.</description>
+  <link>https://already-clean.goodfire.com/</link>
+  <pubDate>Thu, 15 Oct 2026 18:35:49 GMT</pubDate>
+  <guid isPermaLink="false">urn:article-reader:fbdd0a677588379cdd5086637779221ffcf6b88a5b6a5212fbd466c0938e33b2</guid>
+  <enclosure url="https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases/article-fbdd0a677588379cdd508663/article.mp3" length="166712844" type="audio/mpeg" />
+  <itunes:author>Nick Cammarata</itunes:author>
+  <itunes:duration>02:53:39</itunes:duration>
+  <itunes:episodeType>full</itunes:episodeType>
+</item>

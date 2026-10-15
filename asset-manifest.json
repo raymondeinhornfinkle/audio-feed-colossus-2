@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "capacity_bytes": 900000000,
+  "capacity_bytes": 990000000,
   "backing_base_url": "https://github.com/raymondeinhornfinkle/audio-feed/releases/download",
   "release_base_url": "https://raymondeinhornfinkle.github.io/audio-feed-colossus-2/releases",
   "assets": [
@@ -206,6 +206,18 @@
         "transcript.txt": "6be8b205fb4e84971e90442b58053487338f3465e98a7e503fa6716bec2091f1",
         "rss-item.xml": "fde0ce4f67b6155ff86f7eee47fe9cc0d210a2d4e4813240cfaf925ca939f2af",
         "published-package.json": "50a0808d2f24e6da02b0af35126db07e5523ac81c6ed857e42a9c952533a82a9"
+      }
+    },
+    {
+      "release_name": "article-fbdd0a677588379cdd508663",
+      "source_url": "https://github.com/raymondeinhornfinkle/audio-feed/releases/download/article-fbdd0a677588379cdd508663/article.mp3",
+      "bytes": 166712844,
+      "sha256": "eff66b341559e9b122311586f1743b9d5061827d8e40ace6d636ac0333155540",
+      "destination": "releases/article-fbdd0a677588379cdd508663/article.mp3",
+      "metadata": {
+        "transcript.txt": "60c003d2d6552c7bcab0941fda69cac4d5061c14302f6278fb17903dc0b217fc",
+        "rss-item.xml": "b938b97b4a21dbd5ab59f738105d116e80ce75079bf21dfd5af9bdc82f484aa4",
+        "published-package.json": "a0e79e1c3701d87d342ad3874fdb62143e9f7cd5c0bf6f74be1975863f6f29a3"
       }
     }
   ]
